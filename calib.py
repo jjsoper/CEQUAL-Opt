@@ -344,28 +344,27 @@ def run_optimization(max_eval, num_nodes, pop_size, offspring, trial_name):
     print_variables_to_file(front, 'results' + os_fold + 'VAR_' + algorithm.get_name() + "_" + problem.get_name() + trial_name + '.set')
 
 if __name__ == '__main__':
-    # Make sure following model parameters are defined in 'evaluate' function
-    trial_name = "2018_trial1"
+    ## Make sure following model parameters are defined in 'evaluate' function
+    # trial_name = "2018_trial1"
     # run_optimization(max_eval = 12, num_nodes = 4, pop_size = 12, offspring = 12, trial_name = trial_name)
     # run_optimization(max_eval = 2000, num_nodes = 4, pop_size = 20, offspring = 20, trial_name = trial_name)
     # run_optimization(max_eval = 6400, num_nodes = 32, pop_size = 32, offspring = 32, trial_name = trial_name)
 
 
 # debugging code:
-    year = '2018'
-    model_folder = wd + os_fold + year + os_fold + 'optimum'
-    data_path = wd + os_fold + "data" + os_fold + year
-    fail_time = 300
-    problem = cequal()
+    # year = '2018'
+    # model_folder = wd + os_fold + year + os_fold + 'optimum'
+    # data_path = wd + os_fold + "data" + os_fold + year
+    # fail_time = 300
+    # problem = cequal()
     # segs = [np.r_[1:10], np.r_[10:28], np.r_[46:51], np.r_[28:46, 51:63]]
     # problem.write_control(0.25, "EXH2O", model_folder, 0)
     # problem.write_control(104.3, "ESTR", model_folder, 0)
     # problem.write_wsc([0.625, 0.625, 0.625], model_folder, segs)
     # problem.run_cequal(model_folder, fail_time)
-
-    error_bn = problem.Error_BN(model_folder, data_path, year)
-    error_ci = problem.Error_CI(model_folder, data_path, year)
-    print([error_bn, error_ci])
+    # error_bn = problem.Error_BN(model_folder, data_path, year)
+    # error_ci = problem.Error_CI(model_folder, data_path, year)
+    # print([error_bn, error_ci])
     # subprocess.call('/home/js17a/CE-QUAL-W2-Linux/w2_exe_linux /home/js17a/jmet/2017/init')
     # subprocess.call('/home/js17a/CE-QUAL-W2-Linux/w2_exe_linux /home/js17a/jmet/2017/init', 150)
     # subprocess.call(['./CE-QUAL-W2-Linux/w2_exe_linux', model_folder])
