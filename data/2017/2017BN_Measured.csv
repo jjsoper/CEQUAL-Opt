@@ -1,0 +1,1509 @@
+"","Julian_day","Constituent","Depth","Value","Elevation"
+"1",110,"Temperature",0.509,7.177,119.478568
+"2",110,"Specific Conductivity",0.509,132.8,119.478568
+"3",110,"Temperature",1.002,7.09,118.985568
+"4",110,"Specific Conductivity",1.002,132.6,118.985568
+"5",110,"Temperature",2.006,7.028,117.981568
+"6",110,"Specific Conductivity",2.006,132.7,117.981568
+"7",110,"Temperature",2.995,7.012,116.992568
+"8",110,"Specific Conductivity",2.995,133,116.992568
+"9",110,"Specific Conductivity",3.983,133.4,116.004568
+"10",110,"Temperature",3.983,6.928,116.004568
+"11",110,"Temperature",5.002,6.859,114.985568
+"12",110,"Specific Conductivity",5.002,134,114.985568
+"13",110,"Specific Conductivity",6.039,134.3,113.948568
+"14",110,"Temperature",6.039,6.848,113.948568
+"15",110,"Temperature",7.012,6.848,112.975568
+"16",110,"Specific Conductivity",7.012,134.3,112.975568
+"17",110,"Temperature",8.012,6.847,111.975568
+"18",110,"Specific Conductivity",8.012,134.5,111.975568
+"19",110,"Temperature",9.026,6.846,110.961568
+"20",110,"Specific Conductivity",9.026,134.6,110.961568
+"21",110,"Temperature",10.004,6.841,109.983568
+"22",110,"Specific Conductivity",10.004,134.9,109.983568
+"23",110,"Specific Conductivity",10.989,134.9,108.998568
+"24",110,"Temperature",10.989,6.839,108.998568
+"25",110,"Temperature",12.009,6.806,107.978568
+"26",110,"Specific Conductivity",12.009,135.1,107.978568
+"27",110,"Specific Conductivity",13.986,135.4,106.001568
+"28",110,"Specific Conductivity",12.998,135.3,106.989568
+"29",110,"Temperature",13.986,6.767,106.001568
+"30",110,"Temperature",12.998,6.786,106.989568
+"31",110,"Temperature",14.977,6.734,105.010568
+"32",110,"Specific Conductivity",14.977,135.1,105.010568
+"33",110,"Temperature",16.006,6.709,103.981568
+"34",110,"Specific Conductivity",16.006,134.4,103.981568
+"35",110,"Temperature",17.998,6.566,101.989568
+"36",110,"Specific Conductivity",17.998,134.6,101.989568
+"37",110,"Specific Conductivity",20.005,134.5,99.982568
+"38",110,"Temperature",20.005,6.403,99.982568
+"39",110,"Temperature",21.98,6.302,98.007568
+"40",110,"Specific Conductivity",21.98,135.5,98.007568
+"41",110,"Specific Conductivity",24.007,135.9,95.980568
+"42",110,"Temperature",24.007,6.294,95.980568
+"43",110,"Temperature",25.959,6.254,94.028568
+"44",110,"Specific Conductivity",25.959,136.9,94.028568
+"45",110,"Specific Conductivity",28.025,137.6,91.962568
+"46",110,"Temperature",28.025,6.171,91.962568
+"47",110,"Specific Conductivity",29.991,137.2,89.996568
+"48",110,"Temperature",30.987,6.015,89.000568
+"49",110,"Temperature",29.991,6.074,89.996568
+"50",110,"Specific Conductivity",30.987,139.1,89.000568
+"51",117,"Temperature",0.512,8.098,119.399368
+"52",117,"Specific Conductivity",0.512,139.6,119.399368
+"53",117,"Specific Conductivity",1.021,139.8,118.890368
+"54",117,"Temperature",1.021,7.85,118.890368
+"55",117,"Specific Conductivity",2.011,139.9,117.900368
+"56",117,"Temperature",2.011,7.796,117.900368
+"57",117,"Temperature",3.022,7.751,116.889368
+"58",117,"Specific Conductivity",3.022,139.9,116.889368
+"59",117,"Specific Conductivity",4.012,139.8,115.899368
+"60",117,"Temperature",4.012,7.721,115.899368
+"61",117,"Specific Conductivity",5.011,139.4,114.900368
+"62",117,"Temperature",5.011,7.692,114.900368
+"63",117,"Specific Conductivity",6.005,139.6,113.906368
+"64",117,"Temperature",6.005,7.658,113.906368
+"65",117,"Specific Conductivity",7.008,140.4,112.903368
+"66",117,"Temperature",7.008,7.615,112.903368
+"67",117,"Temperature",8.008,7.598,111.903368
+"68",117,"Specific Conductivity",8.008,140.9,111.903368
+"69",117,"Specific Conductivity",9.011,141.4,110.900368
+"70",117,"Temperature",9.011,7.586,110.900368
+"71",117,"Temperature",10.004,7.527,109.907368
+"72",117,"Specific Conductivity",10.004,143.2,109.907368
+"73",117,"Specific Conductivity",10.982,143.9,108.929368
+"74",117,"Specific Conductivity",11.016,143.6,108.895368
+"75",117,"Temperature",10.982,7.455,108.929368
+"76",117,"Temperature",11.016,7.46,108.895368
+"77",117,"Temperature",12.01,7.403,107.901368
+"78",117,"Specific Conductivity",12.01,144.3,107.901368
+"79",117,"Temperature",13.003,7.298,106.908368
+"80",117,"Specific Conductivity",13.003,144.8,106.908368
+"81",117,"Specific Conductivity",13.008,145,106.903368
+"82",117,"Temperature",13.008,7.304,106.903368
+"83",117,"Temperature",14.024,7.231,105.887368
+"84",117,"Specific Conductivity",14.024,143.8,105.887368
+"85",117,"Specific Conductivity",15.004,144,104.907368
+"86",117,"Temperature",15.002,7.195,104.909368
+"87",117,"Specific Conductivity",15.002,143.8,104.909368
+"88",117,"Temperature",15.004,7.195,104.907368
+"89",117,"Temperature",15.006,7.196,104.905368
+"90",117,"Specific Conductivity",15.006,143.9,104.905368
+"91",117,"Specific Conductivity",15.999,144.5,103.912368
+"92",117,"Temperature",17.009,7.085,102.902368
+"93",117,"Temperature",15.999,7.13,103.912368
+"94",117,"Specific Conductivity",17.009,144.4,102.902368
+"95",117,"Specific Conductivity",18.04,143.2,101.871368
+"96",117,"Temperature",18.04,6.935,101.871368
+"97",117,"Specific Conductivity",22.017,141.6,97.894368
+"98",117,"Specific Conductivity",19.999,142.2,99.912368
+"99",117,"Temperature",22.017,6.732,97.894368
+"100",117,"Temperature",19.999,6.785,99.912368
+"101",117,"Temperature",24.018,6.685,95.893368
+"102",117,"Specific Conductivity",24.018,141.7,95.893368
+"103",117,"Specific Conductivity",25.973,142.2,93.938368
+"104",117,"Temperature",25.973,6.601,93.938368
+"105",117,"Temperature",27.992,6.508,91.919368
+"106",117,"Specific Conductivity",27.992,141.5,91.919368
+"107",117,"Temperature",29.945,6.45,89.966368
+"108",117,"Specific Conductivity",29.945,141.6,89.966368
+"109",117,"Specific Conductivity",30.942,141.5,88.969368
+"110",117,"Temperature",30.942,6.439,88.969368
+"111",124,"Temperature",0.51,10.18,119.297736
+"112",124,"Specific Conductivity",0.51,148.9,119.297736
+"113",124,"Temperature",1,10.16,118.807736
+"114",124,"Specific Conductivity",1,148.9,118.807736
+"115",124,"Specific Conductivity",2,148.8,117.807736
+"116",124,"Temperature",2,10.15,117.807736
+"117",124,"Specific Conductivity",3.01,148.9,116.797736
+"118",124,"Temperature",3.01,10.11,116.797736
+"119",124,"Temperature",4,9.94,115.807736
+"120",124,"Specific Conductivity",4,148.5,115.807736
+"121",124,"Temperature",5.01,9.89,114.797736
+"122",124,"Specific Conductivity",5.01,147.8,114.797736
+"123",124,"Specific Conductivity",6,147.8,113.807736
+"124",124,"Temperature",6,9.87,113.807736
+"125",124,"Specific Conductivity",7,147.4,112.807736
+"126",124,"Temperature",7,9.85,112.807736
+"127",124,"Specific Conductivity",8,146.9,111.807736
+"128",124,"Temperature",8,9.82,111.807736
+"129",124,"Specific Conductivity",9,146.2,110.807736
+"130",124,"Temperature",9,9.79,110.807736
+"131",124,"Specific Conductivity",10.01,145,109.797736
+"132",124,"Temperature",10.01,9.7,109.797736
+"133",124,"Specific Conductivity",11,144.9,108.807736
+"134",124,"Temperature",11,9.69,108.807736
+"135",124,"Specific Conductivity",12,144.8,107.807736
+"136",124,"Temperature",12,9.64,107.807736
+"137",124,"Specific Conductivity",13,143.9,106.807736
+"138",124,"Temperature",13,9.5,106.807736
+"139",124,"Temperature",13.98,9.21,105.827736
+"140",124,"Specific Conductivity",13.98,143.2,105.827736
+"141",124,"Specific Conductivity",15,143,104.807736
+"142",124,"Temperature",15,8.77,104.807736
+"143",124,"Specific Conductivity",15.99,143,103.817736
+"144",124,"Temperature",15.99,8.57,103.817736
+"145",124,"Temperature",17.97,7.96,101.837736
+"146",124,"Specific Conductivity",17.97,143.7,101.837736
+"147",124,"Specific Conductivity",20.02,142.6,99.787736
+"148",124,"Temperature",20.02,7.36,99.787736
+"149",124,"Temperature",22,7.16,97.807736
+"150",124,"Specific Conductivity",22,142.3,97.807736
+"151",124,"Temperature",24,7.09,95.807736
+"152",124,"Specific Conductivity",24,141.9,95.807736
+"153",124,"Temperature",25.97,7.05,93.837736
+"154",124,"Specific Conductivity",25.97,141.9,93.837736
+"155",124,"Specific Conductivity",28.01,141.8,91.797736
+"156",124,"Temperature",28.01,7,91.797736
+"157",124,"Specific Conductivity",29.98,141.8,89.827736
+"158",124,"Temperature",29.98,6.91,89.827736
+"159",131,"Temperature",0.52,10.84,119.168864
+"160",131,"Specific Conductivity",0.52,145.8,119.168864
+"161",131,"Specific Conductivity",1.01,145.9,118.678864
+"162",131,"Temperature",1.01,10.84,118.678864
+"163",131,"Specific Conductivity",2.01,145.8,117.678864
+"164",131,"Temperature",2.01,10.82,117.678864
+"165",131,"Specific Conductivity",3,145.8,116.688864
+"166",131,"Temperature",3,10.81,116.688864
+"167",131,"Temperature",4,10.8,115.688864
+"168",131,"Specific Conductivity",4,145.9,115.688864
+"169",131,"Temperature",5,10.76,114.688864
+"170",131,"Specific Conductivity",5,146.1,114.688864
+"171",131,"Temperature",6.01,10.68,113.678864
+"172",131,"Specific Conductivity",6.01,146.3,113.678864
+"173",131,"Specific Conductivity",7.01,146.6,112.678864
+"174",131,"Temperature",7.01,10.56,112.678864
+"175",131,"Temperature",8.01,10.09,111.678864
+"176",131,"Specific Conductivity",8.01,148.5,111.678864
+"177",131,"Specific Conductivity",9.01,150.2,110.678864
+"178",131,"Temperature",9.01,9.9,110.678864
+"179",131,"Specific Conductivity",10,151.8,109.688864
+"180",131,"Temperature",10,9.64,109.688864
+"181",131,"Temperature",11,9.44,108.688864
+"182",131,"Specific Conductivity",11,152.4,108.688864
+"183",131,"Temperature",12.01,9.33,107.678864
+"184",131,"Specific Conductivity",12.01,151.5,107.678864
+"185",131,"Temperature",13,8.73,106.688864
+"186",131,"Specific Conductivity",13,149.5,106.688864
+"187",131,"Temperature",13.98,8.39,105.708864
+"188",131,"Specific Conductivity",13.98,149.3,105.708864
+"189",131,"Specific Conductivity",16.01,148.9,103.678864
+"190",131,"Temperature",16.01,8.16,103.678864
+"191",131,"Temperature",18,8.04,101.688864
+"192",131,"Specific Conductivity",18,148.4,101.688864
+"193",131,"Temperature",19.95,8.01,99.738864
+"194",131,"Specific Conductivity",19.95,147.6,99.738864
+"195",131,"Temperature",22.01,7.94,97.678864
+"196",131,"Specific Conductivity",22.01,147.3,97.678864
+"197",131,"Specific Conductivity",23.96,147.3,95.728864
+"198",131,"Temperature",23.96,7.9,95.728864
+"199",131,"Specific Conductivity",25.79,146.7,93.898864
+"200",131,"Temperature",25.79,7.82,93.898864
+"201",131,"Temperature",27.95,7.62,91.738864
+"202",131,"Specific Conductivity",27.95,144.2,91.738864
+"203",131,"Temperature",30,7.42,89.688864
+"204",131,"Specific Conductivity",30,143.4,89.688864
+"205",138,"Temperature",0.51,13.51,119.175816
+"206",138,"Specific Conductivity",0.51,155.7,119.175816
+"207",138,"Specific Conductivity",1,155.9,118.685816
+"208",138,"Temperature",1,13.19,118.685816
+"209",138,"Temperature",2,13.01,117.685816
+"210",138,"Specific Conductivity",2,155.9,117.685816
+"211",138,"Specific Conductivity",3,154.8,116.685816
+"212",138,"Temperature",3,12.9,116.685816
+"213",138,"Temperature",4,12.86,115.685816
+"214",138,"Specific Conductivity",4,154.2,115.685816
+"215",138,"Specific Conductivity",5.01,154,114.675816
+"216",138,"Temperature",5.01,12.84,114.675816
+"217",138,"Temperature",6,12.84,113.685816
+"218",138,"Specific Conductivity",6,153.9,113.685816
+"219",138,"Temperature",7,12.75,112.685816
+"220",138,"Specific Conductivity",7,153,112.685816
+"221",138,"Specific Conductivity",7.99,149.7,111.695816
+"222",138,"Temperature",7.99,12.23,111.695816
+"223",138,"Specific Conductivity",9,149.2,110.685816
+"224",138,"Temperature",9,11.97,110.685816
+"225",138,"Temperature",10,11.21,109.685816
+"226",138,"Specific Conductivity",10,148.5,109.685816
+"227",138,"Specific Conductivity",11.01,149.1,108.675816
+"228",138,"Temperature",11.01,10.55,108.675816
+"229",138,"Temperature",12.04,10.39,107.645816
+"230",138,"Specific Conductivity",12.04,148.8,107.645816
+"231",138,"Specific Conductivity",13,148.5,106.685816
+"232",138,"Temperature",13,10.17,106.685816
+"233",138,"Temperature",13.99,10.03,105.695816
+"234",138,"Specific Conductivity",13.99,148.4,105.695816
+"235",138,"Specific Conductivity",16,148.3,103.685816
+"236",138,"Temperature",16,9.4,103.685816
+"237",138,"Temperature",18.02,8.89,101.665816
+"238",138,"Specific Conductivity",18.02,147.6,101.665816
+"239",138,"Temperature",20,8.38,99.685816
+"240",138,"Specific Conductivity",20,146.7,99.685816
+"241",138,"Temperature",21.98,8.29,97.705816
+"242",138,"Specific Conductivity",21.98,146.6,97.705816
+"243",138,"Specific Conductivity",23.99,146.4,95.695816
+"244",138,"Temperature",23.99,7.94,95.695816
+"245",138,"Specific Conductivity",25.93,145.9,93.755816
+"246",138,"Temperature",25.93,7.83,93.755816
+"247",138,"Specific Conductivity",27.97,145.8,91.715816
+"248",138,"Temperature",27.97,7.74,91.715816
+"249",138,"Temperature",29.94,7.63,89.745816
+"250",138,"Specific Conductivity",29.94,145.4,89.745816
+"251",145,"Temperature",0.52,15.58,119.004272
+"252",145,"Specific Conductivity",0.52,153.3,119.004272
+"253",145,"Specific Conductivity",1.01,153.2,118.514272
+"254",145,"Temperature",1.01,15.58,118.514272
+"255",145,"Specific Conductivity",2.01,153,117.514272
+"256",145,"Temperature",2.01,15.58,117.514272
+"257",145,"Specific Conductivity",3.01,153.3,116.514272
+"258",145,"Temperature",3.01,15.52,116.514272
+"259",145,"Temperature",4,15.39,115.524272
+"260",145,"Specific Conductivity",4,153.8,115.524272
+"261",145,"Specific Conductivity",5.01,155.9,114.514272
+"262",145,"Temperature",5.01,14.48,114.514272
+"263",145,"Specific Conductivity",6,155.8,113.524272
+"264",145,"Temperature",6,13.02,113.524272
+"265",145,"Specific Conductivity",7,155.1,112.524272
+"266",145,"Temperature",7,12.19,112.524272
+"267",145,"Temperature",7.97,11.53,111.554272
+"268",145,"Specific Conductivity",7.97,153.7,111.554272
+"269",145,"Temperature",9.03,11.1,110.494272
+"270",145,"Specific Conductivity",9.03,152.6,110.494272
+"271",145,"Temperature",9.98,10.78,109.544272
+"272",145,"Specific Conductivity",9.98,151.2,109.544272
+"273",145,"Specific Conductivity",11,150.8,108.524272
+"274",145,"Temperature",11,10.37,108.524272
+"275",145,"Temperature",12.03,10.16,107.494272
+"276",145,"Specific Conductivity",12.03,150.2,107.494272
+"277",145,"Specific Conductivity",13.99,149.7,105.534272
+"278",145,"Temperature",13.99,9.52,105.534272
+"279",145,"Temperature",16.02,9.1,103.504272
+"280",145,"Specific Conductivity",16.02,149.3,103.504272
+"281",145,"Specific Conductivity",18.01,148.9,101.514272
+"282",145,"Temperature",18.01,8.74,101.514272
+"283",145,"Specific Conductivity",20,147.7,99.524272
+"284",145,"Temperature",20,8.47,99.524272
+"285",145,"Temperature",22,8.34,97.524272
+"286",145,"Specific Conductivity",22,147.9,97.524272
+"287",145,"Specific Conductivity",24,147.3,95.524272
+"288",145,"Temperature",24,8.19,95.524272
+"289",145,"Temperature",25.98,8.03,93.544272
+"290",145,"Specific Conductivity",25.98,147.1,93.544272
+"291",145,"Temperature",28,7.93,91.524272
+"292",145,"Specific Conductivity",28,146.3,91.524272
+"293",145,"Temperature",29.99,7.81,89.534272
+"294",145,"Specific Conductivity",29.99,146.1,89.534272
+"295",152,"Temperature",0.51,15.7,119.10876
+"296",152,"Specific Conductivity",0.51,157.5,119.10876
+"297",152,"Temperature",1.07,15.64,118.54876
+"298",152,"Specific Conductivity",1.07,157.1,118.54876
+"299",152,"Specific Conductivity",2.03,157.2,117.58876
+"300",152,"Temperature",2.03,15.61,117.58876
+"301",152,"Temperature",3.03,15.55,116.58876
+"302",152,"Specific Conductivity",3.03,156.9,116.58876
+"303",152,"Specific Conductivity",4.03,156.6,115.58876
+"304",152,"Temperature",4.03,15.53,115.58876
+"305",152,"Temperature",5.01,15.47,114.60876
+"306",152,"Specific Conductivity",5.01,156.8,114.60876
+"307",152,"Specific Conductivity",6.03,157.1,113.58876
+"308",152,"Temperature",6.03,15.38,113.58876
+"309",152,"Temperature",7.01,15.24,112.60876
+"310",152,"Specific Conductivity",7.01,156.9,112.60876
+"311",152,"Specific Conductivity",7.49,154.6,112.12876
+"312",152,"Temperature",7.49,14.55,112.12876
+"313",152,"Specific Conductivity",7.95,153,111.66876
+"314",152,"Temperature",7.95,13.75,111.66876
+"315",152,"Temperature",9.02,12.91,110.59876
+"316",152,"Specific Conductivity",9.02,151.6,110.59876
+"317",152,"Temperature",10.02,11.94,109.59876
+"318",152,"Specific Conductivity",10.02,151,109.59876
+"319",152,"Temperature",11.01,10.73,108.60876
+"320",152,"Specific Conductivity",11.01,149.7,108.60876
+"321",152,"Specific Conductivity",12.02,149.3,107.59876
+"322",152,"Temperature",12.02,10.37,107.59876
+"323",152,"Temperature",13.01,9.72,106.60876
+"324",152,"Specific Conductivity",13.01,149.5,106.60876
+"325",152,"Temperature",14.02,9.38,105.59876
+"326",152,"Specific Conductivity",14.02,149.5,105.59876
+"327",152,"Specific Conductivity",16,149.3,103.61876
+"328",152,"Temperature",16,9.14,103.61876
+"329",152,"Specific Conductivity",18.01,149.7,101.60876
+"330",152,"Temperature",18.01,8.93,101.60876
+"331",152,"Specific Conductivity",19.98,149.3,99.63876
+"332",152,"Temperature",19.98,8.71,99.63876
+"333",152,"Specific Conductivity",22.02,148.7,97.59876
+"334",152,"Temperature",22.02,8.65,97.59876
+"335",152,"Temperature",24,8.49,95.61876
+"336",152,"Specific Conductivity",24,148.6,95.61876
+"337",152,"Temperature",26,8.36,93.61876
+"338",152,"Specific Conductivity",26,148,93.61876
+"339",152,"Temperature",28,8.19,91.61876
+"340",152,"Specific Conductivity",28,147.6,91.61876
+"341",152,"Specific Conductivity",29.97,147,89.64876
+"342",152,"Temperature",29.97,8.05,89.64876
+"343",159,"Specific Conductivity",0.25,160.5,119.423624
+"344",159,"Temperature",0.25,16.56,119.423624
+"345",159,"Temperature",0.5,16.27,119.173624
+"346",159,"Specific Conductivity",0.5,160.4,119.173624
+"347",159,"Specific Conductivity",1,160.5,118.673624
+"348",159,"Temperature",1,15.99,118.673624
+"349",159,"Temperature",2,15.7,117.673624
+"350",159,"Specific Conductivity",2,160,117.673624
+"351",159,"Specific Conductivity",3,159.8,116.673624
+"352",159,"Temperature",3,15.55,116.673624
+"353",159,"Specific Conductivity",4,159.7,115.673624
+"354",159,"Temperature",4,15.47,115.673624
+"355",159,"Specific Conductivity",5,157.8,114.673624
+"356",159,"Temperature",5,15.33,114.673624
+"357",159,"Temperature",6,15.01,113.673624
+"358",159,"Specific Conductivity",6,157.9,113.673624
+"359",159,"Specific Conductivity",6.44,157.8,113.233624
+"360",159,"Temperature",6.44,14.92,113.233624
+"361",159,"Temperature",7,14.63,112.673624
+"362",159,"Specific Conductivity",7,157.5,112.673624
+"363",159,"Temperature",7.5,14.41,112.173624
+"364",159,"Specific Conductivity",7.5,157,112.173624
+"365",159,"Specific Conductivity",8,156.7,111.673624
+"366",159,"Temperature",8,14.4,111.673624
+"367",159,"Specific Conductivity",9.01,154.7,110.663624
+"368",159,"Temperature",9.01,13.88,110.663624
+"369",159,"Specific Conductivity",10.01,153.1,109.663624
+"370",159,"Temperature",10.01,12.88,109.663624
+"371",159,"Specific Conductivity",11,152.4,108.673624
+"372",159,"Temperature",11,12.06,108.673624
+"373",159,"Specific Conductivity",12,152.5,107.673624
+"374",159,"Temperature",12,11.73,107.673624
+"375",159,"Specific Conductivity",13.01,151.4,106.663624
+"376",159,"Temperature",13.01,10.93,106.663624
+"377",159,"Temperature",14,10.59,105.673624
+"378",159,"Specific Conductivity",14,151.2,105.673624
+"379",159,"Specific Conductivity",16,150.3,103.673624
+"380",159,"Temperature",16,9.92,103.673624
+"381",159,"Temperature",18,9.21,101.673624
+"382",159,"Specific Conductivity",18,149.8,101.673624
+"383",159,"Temperature",20,9.09,99.673624
+"384",159,"Specific Conductivity",20,149.5,99.673624
+"385",159,"Specific Conductivity",21.99,149.3,97.683624
+"386",159,"Temperature",21.99,8.88,97.683624
+"387",159,"Temperature",24,8.63,95.673624
+"388",159,"Specific Conductivity",24,149,95.673624
+"389",159,"Specific Conductivity",26.01,148.6,93.663624
+"390",159,"Temperature",26.01,8.48,93.663624
+"391",159,"Temperature",28,8.4,91.673624
+"392",159,"Specific Conductivity",28,148.5,91.673624
+"393",159,"Specific Conductivity",30,148.2,89.673624
+"394",159,"Temperature",30,8.33,89.673624
+"395",166,"Temperature",0.14,22.3,119.332456
+"396",166,"Specific Conductivity",0.14,161.4,119.332456
+"397",166,"Specific Conductivity",0.31,161.4,119.162456
+"398",166,"Temperature",0.31,22.32,119.162456
+"399",166,"Specific Conductivity",0.51,161.4,118.962456
+"400",166,"Temperature",0.51,22.32,118.962456
+"401",166,"Specific Conductivity",0.8,161.3,118.672456
+"402",166,"Temperature",0.8,22.33,118.672456
+"403",166,"Specific Conductivity",1.01,161.4,118.462456
+"404",166,"Temperature",1.01,22.31,118.462456
+"405",166,"Temperature",1.57,22.32,117.902456
+"406",166,"Specific Conductivity",1.57,161.4,117.902456
+"407",166,"Specific Conductivity",1.99,161.3,117.482456
+"408",166,"Temperature",1.99,22.31,117.482456
+"409",166,"Temperature",2.98,20.92,116.492456
+"410",166,"Specific Conductivity",2.98,161.6,116.492456
+"411",166,"Specific Conductivity",2.99,161.6,116.482456
+"412",166,"Temperature",2.99,20.91,116.482456
+"413",166,"Specific Conductivity",3.98,161.8,115.492456
+"414",166,"Temperature",3.98,19.78,115.492456
+"415",166,"Temperature",4.98,18.55,114.492456
+"416",166,"Specific Conductivity",4.98,160.7,114.492456
+"417",166,"Specific Conductivity",6.05,161.9,113.422456
+"418",166,"Temperature",6.05,16.32,113.422456
+"419",166,"Temperature",7.05,15.38,112.422456
+"420",166,"Specific Conductivity",7.05,159.3,112.422456
+"421",166,"Specific Conductivity",7.52,158.9,111.952456
+"422",166,"Temperature",7.52,14.72,111.952456
+"423",166,"Temperature",8.09,14.23,111.382456
+"424",166,"Specific Conductivity",8.09,157.3,111.382456
+"425",166,"Specific Conductivity",9.05,157.1,110.422456
+"426",166,"Temperature",9.05,14.13,110.422456
+"427",166,"Temperature",10,13.53,109.472456
+"428",166,"Specific Conductivity",10,155.1,109.472456
+"429",166,"Temperature",11.01,12.51,108.462456
+"430",166,"Specific Conductivity",11.01,153.2,108.462456
+"431",166,"Temperature",11.98,11.67,107.492456
+"432",166,"Specific Conductivity",11.98,152.1,107.492456
+"433",166,"Specific Conductivity",13.01,151.7,106.462456
+"434",166,"Temperature",13.01,11.26,106.462456
+"435",166,"Specific Conductivity",13.97,150.8,105.502456
+"436",166,"Temperature",13.97,10.07,105.502456
+"437",166,"Temperature",15,9.87,104.472456
+"438",166,"Specific Conductivity",15,150.7,104.472456
+"439",166,"Temperature",16.02,9.53,103.452456
+"440",166,"Specific Conductivity",16.02,150.4,103.452456
+"441",166,"Temperature",18.04,9.12,101.432456
+"442",166,"Specific Conductivity",18.04,150,101.432456
+"443",166,"Temperature",20,9.03,99.472456
+"444",166,"Specific Conductivity",20,150,99.472456
+"445",166,"Specific Conductivity",22,149.9,97.472456
+"446",166,"Temperature",22,8.93,97.472456
+"447",166,"Specific Conductivity",24.01,149.2,95.462456
+"448",166,"Temperature",24.01,8.67,95.462456
+"449",166,"Temperature",26.01,8.56,93.462456
+"450",166,"Specific Conductivity",26.01,148.8,93.462456
+"451",166,"Specific Conductivity",28.06,148.5,91.412456
+"452",166,"Temperature",28.06,8.43,91.412456
+"453",166,"Temperature",29.93,8.36,89.542456
+"454",166,"Specific Conductivity",29.93,148.2,89.542456
+"455",166,"Temperature",30.03,8.35,89.442456
+"456",166,"Specific Conductivity",30.03,148.2,89.442456
+"457",173,"Temperature",0.26,23.01,119.050912
+"458",173,"Specific Conductivity",0.26,162.2,119.050912
+"459",173,"Temperature",1.03,22.9,118.280912
+"460",173,"Specific Conductivity",1.03,162.2,118.280912
+"461",173,"Temperature",2.03,22.79,117.280912
+"462",173,"Specific Conductivity",2.03,162.1,117.280912
+"463",173,"Specific Conductivity",3.02,162.2,116.290912
+"464",173,"Temperature",3.02,22.73,116.290912
+"465",173,"Temperature",4.02,22.66,115.290912
+"466",173,"Specific Conductivity",4.02,162.2,115.290912
+"467",173,"Temperature",4.97,22.64,114.340912
+"468",173,"Specific Conductivity",4.97,162.2,114.340912
+"469",173,"Specific Conductivity",5.5,162.3,113.810912
+"470",173,"Temperature",5.5,22.34,113.810912
+"471",173,"Temperature",5.63,19.98,113.680912
+"472",173,"Specific Conductivity",5.63,163.9,113.680912
+"473",173,"Temperature",5.73,19.53,113.580912
+"474",173,"Specific Conductivity",5.73,162.1,113.580912
+"475",173,"Temperature",6,18.63,113.310912
+"476",173,"Specific Conductivity",6,161.1,113.310912
+"477",173,"Specific Conductivity",6.51,159.6,112.800912
+"478",173,"Temperature",6.51,15.79,112.800912
+"479",173,"Temperature",7,15.01,112.310912
+"480",173,"Specific Conductivity",7,158.6,112.310912
+"481",173,"Specific Conductivity",7.51,160.4,111.800912
+"482",173,"Temperature",7.51,14.65,111.800912
+"483",173,"Specific Conductivity",7.86,160,111.450912
+"484",173,"Temperature",7.86,14.46,111.450912
+"485",173,"Specific Conductivity",7.99,158.8,111.320912
+"486",173,"Temperature",7.99,14.43,111.320912
+"487",173,"Specific Conductivity",8.45,158.6,110.860912
+"488",173,"Temperature",8.45,14.18,110.860912
+"489",173,"Specific Conductivity",8.94,158,110.370912
+"490",173,"Temperature",8.94,13.59,110.370912
+"491",173,"Temperature",9.99,12.65,109.320912
+"492",173,"Specific Conductivity",9.99,155.4,109.320912
+"493",173,"Specific Conductivity",10.97,153.9,108.340912
+"494",173,"Temperature",10.97,12.08,108.340912
+"495",173,"Specific Conductivity",12,152.8,107.310912
+"496",173,"Temperature",12,11.31,107.310912
+"497",173,"Specific Conductivity",14.01,151.6,105.300912
+"498",173,"Temperature",14.01,10,105.300912
+"499",173,"Specific Conductivity",16.02,150.9,103.290912
+"500",173,"Temperature",16.02,9.6,103.290912
+"501",173,"Specific Conductivity",18.04,150.1,101.270912
+"502",173,"Temperature",18.04,9.24,101.270912
+"503",173,"Specific Conductivity",19.97,149.9,99.340912
+"504",173,"Temperature",19.97,9.2,99.340912
+"505",173,"Temperature",20.02,9.22,99.290912
+"506",173,"Specific Conductivity",20.02,149.9,99.290912
+"507",173,"Temperature",21.98,9.11,97.330912
+"508",173,"Specific Conductivity",21.98,150,97.330912
+"509",173,"Specific Conductivity",24.03,149.8,95.280912
+"510",173,"Temperature",24.03,8.94,95.280912
+"511",173,"Specific Conductivity",26,149.7,93.310912
+"512",173,"Temperature",26,8.83,93.310912
+"513",173,"Temperature",28.03,8.69,91.280912
+"514",173,"Specific Conductivity",28.03,149.3,91.280912
+"515",173,"Specific Conductivity",30.02,149.1,89.290912
+"516",173,"Temperature",30.02,8.55,89.290912
+"517",180,"Specific Conductivity",0.29,163.1,118.85632
+"518",180,"Temperature",0.29,22.9,118.85632
+"519",180,"Specific Conductivity",0.51,163.1,118.63632
+"520",180,"Temperature",0.51,22.9,118.63632
+"521",180,"Temperature",1.01,22.9,118.13632
+"522",180,"Specific Conductivity",1.01,163.1,118.13632
+"523",180,"Temperature",2,22.89,117.14632
+"524",180,"Specific Conductivity",2,163.1,117.14632
+"525",180,"Temperature",3.01,22.83,116.13632
+"526",180,"Specific Conductivity",3.01,163.1,116.13632
+"527",180,"Specific Conductivity",4,163.1,115.14632
+"528",180,"Temperature",4,22.8,115.14632
+"529",180,"Specific Conductivity",5,163.1,114.14632
+"530",180,"Temperature",5,22.72,114.14632
+"531",180,"Temperature",6.01,22.63,113.13632
+"532",180,"Specific Conductivity",6.01,163,113.13632
+"533",180,"Temperature",6.51,22.14,112.63632
+"534",180,"Specific Conductivity",6.51,162.6,112.63632
+"535",180,"Specific Conductivity",6.81,162.4,112.33632
+"536",180,"Temperature",6.81,20.02,112.33632
+"537",180,"Specific Conductivity",7,162.7,112.14632
+"538",180,"Temperature",7,18.42,112.14632
+"539",180,"Temperature",7.5,16.2,111.64632
+"540",180,"Specific Conductivity",7.5,161.6,111.64632
+"541",180,"Specific Conductivity",8.03,159.3,111.11632
+"542",180,"Temperature",8.03,14.85,111.11632
+"543",180,"Specific Conductivity",8.44,158.5,110.70632
+"544",180,"Temperature",8.44,14.29,110.70632
+"545",180,"Temperature",9,13.71,110.14632
+"546",180,"Specific Conductivity",9,157.5,110.14632
+"547",180,"Specific Conductivity",10,155,109.14632
+"548",180,"Temperature",10,13.01,109.14632
+"549",180,"Temperature",11,11.72,108.14632
+"550",180,"Specific Conductivity",11,154.1,108.14632
+"551",180,"Specific Conductivity",12,153.1,107.14632
+"552",180,"Temperature",12,10.88,107.14632
+"553",180,"Specific Conductivity",13.01,152.2,106.13632
+"554",180,"Temperature",13.01,10.35,106.13632
+"555",180,"Specific Conductivity",13.98,152.3,105.16632
+"556",180,"Temperature",13.98,10.04,105.16632
+"557",180,"Temperature",15.99,9.59,103.15632
+"558",180,"Specific Conductivity",15.99,151.4,103.15632
+"559",180,"Specific Conductivity",17.95,150.7,101.19632
+"560",180,"Temperature",17.95,9.43,101.19632
+"561",180,"Specific Conductivity",19.99,150.5,99.15632
+"562",180,"Temperature",19.99,9.24,99.15632
+"563",180,"Specific Conductivity",22,150.4,97.14632
+"564",180,"Temperature",22,9.13,97.14632
+"565",180,"Specific Conductivity",24.01,150.1,95.13632
+"566",180,"Temperature",24.01,8.98,95.13632
+"567",180,"Temperature",25.97,8.75,93.17632
+"568",180,"Specific Conductivity",25.97,149.7,93.17632
+"569",180,"Temperature",28,8.69,91.14632
+"570",180,"Specific Conductivity",28,149.4,91.14632
+"571",180,"Specific Conductivity",29.41,149.3,89.73632
+"572",180,"Temperature",29.41,8.57,89.73632
+"573",180,"Specific Conductivity",29.84,149.2,89.30632
+"574",180,"Temperature",29.84,8.56,89.30632
+"575",187,"Specific Conductivity",0.27,165.1,118.870224
+"576",187,"Temperature",0.27,24.56,118.870224
+"577",187,"Specific Conductivity",0.5,165.1,118.640224
+"578",187,"Temperature",0.5,24.56,118.640224
+"579",187,"Specific Conductivity",1,165.1,118.140224
+"580",187,"Temperature",1,24.56,118.140224
+"581",187,"Specific Conductivity",2.01,165.1,117.130224
+"582",187,"Temperature",2.01,24.56,117.130224
+"583",187,"Specific Conductivity",3,165.1,116.140224
+"584",187,"Temperature",3,24.54,116.140224
+"585",187,"Temperature",4.02,24.42,115.120224
+"586",187,"Specific Conductivity",4.02,164.8,115.120224
+"587",187,"Temperature",5.17,23.83,113.970224
+"588",187,"Specific Conductivity",5.17,164.8,113.970224
+"589",187,"Temperature",5.5,23.7,113.640224
+"590",187,"Specific Conductivity",5.5,165.2,113.640224
+"591",187,"Specific Conductivity",6.01,165.5,113.130224
+"592",187,"Temperature",6.01,22.96,113.130224
+"593",187,"Temperature",6.5,22.02,112.640224
+"594",187,"Specific Conductivity",6.5,168.8,112.640224
+"595",187,"Specific Conductivity",7.01,167.7,112.130224
+"596",187,"Temperature",7.01,20.11,112.130224
+"597",187,"Specific Conductivity",7.51,164,111.630224
+"598",187,"Temperature",7.51,18.14,111.630224
+"599",187,"Temperature",8.01,16.08,111.130224
+"600",187,"Specific Conductivity",8.01,163.4,111.130224
+"601",187,"Temperature",9.01,14.38,110.130224
+"602",187,"Specific Conductivity",9.01,161.6,110.130224
+"603",187,"Temperature",10.02,13.14,109.120224
+"604",187,"Specific Conductivity",10.02,157.1,109.120224
+"605",187,"Temperature",11,12.15,108.140224
+"606",187,"Specific Conductivity",11,154.5,108.140224
+"607",187,"Temperature",12.02,11.17,107.120224
+"608",187,"Specific Conductivity",12.02,153.2,107.120224
+"609",187,"Specific Conductivity",12.98,152.1,106.160224
+"610",187,"Temperature",12.98,10.5,106.160224
+"611",187,"Temperature",14.01,9.97,105.130224
+"612",187,"Specific Conductivity",14.01,151.4,105.130224
+"613",187,"Temperature",16,9.55,103.140224
+"614",187,"Specific Conductivity",16,150.9,103.140224
+"615",187,"Temperature",18,9.42,101.140224
+"616",187,"Specific Conductivity",18,151,101.140224
+"617",187,"Temperature",20,9.32,99.140224
+"618",187,"Specific Conductivity",20,150.9,99.140224
+"619",187,"Specific Conductivity",21.94,150.5,97.200224
+"620",187,"Temperature",21.94,9.17,97.200224
+"621",187,"Specific Conductivity",23.89,150.4,95.250224
+"622",187,"Temperature",23.89,9.06,95.250224
+"623",187,"Specific Conductivity",26.02,150.1,93.120224
+"624",187,"Temperature",26.02,8.97,93.120224
+"625",187,"Specific Conductivity",28,149.8,91.140224
+"626",187,"Temperature",28,8.85,91.140224
+"627",187,"Temperature",29.99,8.75,89.150224
+"628",187,"Specific Conductivity",29.99,149.7,89.150224
+"629",200,"Specific Conductivity",0.48,169.8,118.596216
+"630",200,"Temperature",0.48,26.21,118.596216
+"631",200,"Specific Conductivity",1.04,169.7,118.036216
+"632",200,"Temperature",1.04,26.18,118.036216
+"633",200,"Temperature",2.02,25.72,117.056216
+"634",200,"Specific Conductivity",2.02,169.7,117.056216
+"635",200,"Specific Conductivity",3.03,169.3,116.046216
+"636",200,"Temperature",3.03,25.21,116.046216
+"637",200,"Temperature",4.01,24.91,115.066216
+"638",200,"Specific Conductivity",4.01,169.3,115.066216
+"639",200,"Specific Conductivity",5,168.2,114.076216
+"640",200,"Temperature",5,24.08,114.076216
+"641",200,"Specific Conductivity",5.5,167.7,113.576216
+"642",200,"Temperature",5.5,23.79,113.576216
+"643",200,"Temperature",6.08,23.3,112.996216
+"644",200,"Specific Conductivity",6.08,166.8,112.996216
+"645",200,"Temperature",6.53,20.39,112.546216
+"646",200,"Specific Conductivity",6.53,166.7,112.546216
+"647",200,"Temperature",7.01,17.83,112.066216
+"648",200,"Specific Conductivity",7.01,157.4,112.066216
+"649",200,"Specific Conductivity",7.51,150.2,111.566216
+"650",200,"Temperature",7.51,16.45,111.566216
+"651",200,"Specific Conductivity",8.02,149.5,111.056216
+"652",200,"Temperature",8.02,15.62,111.056216
+"653",200,"Temperature",8.57,14.73,110.506216
+"654",200,"Specific Conductivity",8.57,150.1,110.506216
+"655",200,"Temperature",9.02,14.37,110.056216
+"656",200,"Specific Conductivity",9.02,149,110.056216
+"657",200,"Temperature",9.52,14,109.556216
+"658",200,"Specific Conductivity",9.52,151.2,109.556216
+"659",200,"Specific Conductivity",10.02,153.7,109.056216
+"660",200,"Temperature",10.02,13.74,109.056216
+"661",200,"Temperature",11,12.82,108.076216
+"662",200,"Specific Conductivity",11,157.9,108.076216
+"663",200,"Temperature",12.03,12.04,107.046216
+"664",200,"Specific Conductivity",12.03,154.9,107.046216
+"665",200,"Specific Conductivity",13.01,154,106.066216
+"666",200,"Temperature",13.01,10.76,106.066216
+"667",200,"Specific Conductivity",14.03,152.7,105.046216
+"668",200,"Temperature",14.03,10.23,105.046216
+"669",200,"Temperature",15.06,9.66,104.016216
+"670",200,"Specific Conductivity",15.06,151.6,104.016216
+"671",200,"Specific Conductivity",16,151.3,103.076216
+"672",200,"Temperature",16,9.49,103.076216
+"673",200,"Temperature",18.01,9.4,101.066216
+"674",200,"Specific Conductivity",18.01,151,101.066216
+"675",200,"Specific Conductivity",20.07,150.9,99.006216
+"676",200,"Temperature",20.07,9.23,99.006216
+"677",200,"Temperature",22.02,9.2,97.056216
+"678",200,"Specific Conductivity",22.02,150.8,97.056216
+"679",200,"Specific Conductivity",24.03,150.7,95.046216
+"680",200,"Temperature",24.03,9.1,95.046216
+"681",200,"Temperature",26.02,8.95,93.056216
+"682",200,"Specific Conductivity",26.02,150.5,93.056216
+"683",200,"Temperature",28.01,8.83,91.066216
+"684",200,"Specific Conductivity",28.01,150.2,91.066216
+"685",200,"Temperature",30.01,8.68,89.066216
+"686",200,"Specific Conductivity",30.01,150.1,89.066216
+"687",215,"Specific Conductivity",0.51,168.1,118.526592
+"688",215,"Temperature",0.51,24.33,118.526592
+"689",215,"Temperature",1.01,24.33,118.026592
+"690",215,"Specific Conductivity",1.01,168.1,118.026592
+"691",215,"Temperature",2,24.32,117.036592
+"692",215,"Specific Conductivity",2,167.9,117.036592
+"693",215,"Specific Conductivity",3,168,116.036592
+"694",215,"Temperature",3,24.32,116.036592
+"695",215,"Specific Conductivity",4,168.1,115.036592
+"696",215,"Temperature",4,24.13,115.036592
+"697",215,"Temperature",4.51,22.82,114.526592
+"698",215,"Specific Conductivity",4.51,168.6,114.526592
+"699",215,"Temperature",5,22.62,114.036592
+"700",215,"Specific Conductivity",5,167.4,114.036592
+"701",215,"Specific Conductivity",5.5,167,113.536592
+"702",215,"Temperature",5.5,22.22,113.536592
+"703",215,"Temperature",6.02,21.83,113.016592
+"704",215,"Specific Conductivity",6.02,165.9,113.016592
+"705",215,"Temperature",6.51,20.79,112.526592
+"706",215,"Specific Conductivity",6.51,160.8,112.526592
+"707",215,"Temperature",7,19.91,112.036592
+"708",215,"Specific Conductivity",7,155.3,112.036592
+"709",215,"Specific Conductivity",7.52,146,111.516592
+"710",215,"Temperature",7.52,18.46,111.516592
+"711",215,"Specific Conductivity",8.01,139.4,111.026592
+"712",215,"Temperature",8.01,16.76,111.026592
+"713",215,"Specific Conductivity",8.52,132.9,110.516592
+"714",215,"Temperature",8.52,16.13,110.516592
+"715",215,"Specific Conductivity",9.04,134.9,109.996592
+"716",215,"Temperature",9.04,15.33,109.996592
+"717",215,"Specific Conductivity",9.5,136,109.536592
+"718",215,"Temperature",9.5,14.84,109.536592
+"719",215,"Specific Conductivity",10.01,136,109.026592
+"720",215,"Temperature",10.01,14.49,109.026592
+"721",215,"Specific Conductivity",10.97,144.3,108.066592
+"722",215,"Temperature",10.97,13.7,108.066592
+"723",215,"Specific Conductivity",12.06,150.4,106.976592
+"724",215,"Temperature",12.06,12.82,106.976592
+"725",215,"Specific Conductivity",13.9,152.2,105.136592
+"726",215,"Temperature",13.9,10.37,105.136592
+"727",215,"Specific Conductivity",16.01,151.9,103.026592
+"728",215,"Temperature",16.01,9.77,103.026592
+"729",215,"Temperature",18.04,9.48,100.996592
+"730",215,"Specific Conductivity",18.04,151.6,100.996592
+"731",215,"Temperature",20.12,9.37,98.916592
+"732",215,"Specific Conductivity",20.12,151.6,98.916592
+"733",215,"Specific Conductivity",22.02,151.1,97.016592
+"734",215,"Temperature",22.02,9.25,97.016592
+"735",215,"Specific Conductivity",24.02,150.9,95.016592
+"736",215,"Temperature",24.02,9.19,95.016592
+"737",215,"Specific Conductivity",26.02,150.9,93.016592
+"738",215,"Temperature",26.02,9.11,93.016592
+"739",215,"Temperature",28.04,8.96,90.996592
+"740",215,"Specific Conductivity",28.04,150.8,90.996592
+"741",215,"Temperature",30.01,8.82,89.026592
+"742",215,"Specific Conductivity",30.01,150.6,89.026592
+"743",222,"Temperature",0.5,23.91,118.5244
+"744",222,"Specific Conductivity",0.5,168.8,118.5244
+"745",222,"Specific Conductivity",1.01,168.7,118.0144
+"746",222,"Temperature",1.01,23.86,118.0144
+"747",222,"Temperature",2.01,23.77,117.0144
+"748",222,"Specific Conductivity",2.01,168.6,117.0144
+"749",222,"Temperature",3.01,23.72,116.0144
+"750",222,"Specific Conductivity",3.01,168.5,116.0144
+"751",222,"Specific Conductivity",4,168.6,115.0244
+"752",222,"Temperature",4,23.64,115.0244
+"753",222,"Specific Conductivity",5,168.3,114.0244
+"754",222,"Temperature",5,23.34,114.0244
+"755",222,"Specific Conductivity",6,167,113.0244
+"756",222,"Temperature",6,22.63,113.0244
+"757",222,"Specific Conductivity",6.51,166.2,112.5144
+"758",222,"Temperature",6.51,21.77,112.5144
+"759",222,"Specific Conductivity",7.02,146.7,112.0044
+"760",222,"Temperature",7.02,18.38,112.0044
+"761",222,"Temperature",7.5,17.9,111.5244
+"762",222,"Specific Conductivity",7.5,142.7,111.5244
+"763",222,"Temperature",8.03,16.38,110.9944
+"764",222,"Specific Conductivity",8.03,133.8,110.9944
+"765",222,"Specific Conductivity",8.51,130.8,110.5144
+"766",222,"Temperature",8.51,15.57,110.5144
+"767",222,"Temperature",9.01,15.04,110.0144
+"768",222,"Specific Conductivity",9.01,130.6,110.0144
+"769",222,"Temperature",10,14.1,109.0244
+"770",222,"Specific Conductivity",10,134.1,109.0244
+"771",222,"Specific Conductivity",11.01,142.7,108.0144
+"772",222,"Temperature",11.01,13.51,108.0144
+"773",222,"Specific Conductivity",12.02,148.3,107.0044
+"774",222,"Temperature",12.02,12.62,107.0044
+"775",222,"Temperature",14.01,10.43,105.0144
+"776",222,"Specific Conductivity",14.01,152.8,105.0144
+"777",222,"Specific Conductivity",16,152.1,103.0244
+"778",222,"Temperature",16,9.78,103.0244
+"779",222,"Specific Conductivity",18,151.9,101.0244
+"780",222,"Temperature",18,9.56,101.0244
+"781",222,"Specific Conductivity",20.02,151.7,99.0044
+"782",222,"Temperature",20.02,9.45,99.0044
+"783",222,"Temperature",22.06,9.36,96.9644
+"784",222,"Specific Conductivity",22.06,151.8,96.9644
+"785",222,"Temperature",24,9.27,95.0244
+"786",222,"Specific Conductivity",24,151.5,95.0244
+"787",222,"Specific Conductivity",26,151.3,93.0244
+"788",222,"Temperature",26,9.21,93.0244
+"789",222,"Specific Conductivity",28.01,151.2,91.0144
+"790",222,"Temperature",28.01,9.05,91.0144
+"791",222,"Temperature",30.01,8.95,89.0144
+"792",222,"Specific Conductivity",30.01,150.9,89.0144
+"793",229,"Temperature",0.5,24.23,118.61584
+"794",229,"Specific Conductivity",0.5,169.1,118.61584
+"795",229,"Specific Conductivity",1.04,169.1,118.07584
+"796",229,"Temperature",1.04,24.24,118.07584
+"797",229,"Specific Conductivity",2.01,169.1,117.10584
+"798",229,"Temperature",2.01,24.24,117.10584
+"799",229,"Temperature",3.02,24.22,116.09584
+"800",229,"Specific Conductivity",3.02,169.1,116.09584
+"801",229,"Temperature",4.01,24.22,115.10584
+"802",229,"Specific Conductivity",4.01,169.1,115.10584
+"803",229,"Specific Conductivity",5.03,169,114.08584
+"804",229,"Temperature",5.03,24.2,114.08584
+"805",229,"Specific Conductivity",5.51,167.3,113.60584
+"806",229,"Temperature",5.51,23.66,113.60584
+"807",229,"Temperature",6.08,22.34,113.03584
+"808",229,"Specific Conductivity",6.08,164,113.03584
+"809",229,"Temperature",6.53,20.15,112.58584
+"810",229,"Specific Conductivity",6.53,151.4,112.58584
+"811",229,"Temperature",7.02,18.26,112.09584
+"812",229,"Specific Conductivity",7.02,137.9,112.09584
+"813",229,"Specific Conductivity",7.53,128,111.58584
+"814",229,"Temperature",7.53,16.44,111.58584
+"815",229,"Temperature",8.04,16.21,111.07584
+"816",229,"Specific Conductivity",8.04,126.4,111.07584
+"817",229,"Temperature",9.04,15.22,110.07584
+"818",229,"Specific Conductivity",9.04,122.9,110.07584
+"819",229,"Specific Conductivity",10.02,125.7,109.09584
+"820",229,"Temperature",10.02,14.62,109.09584
+"821",229,"Temperature",11.02,14.11,108.09584
+"822",229,"Specific Conductivity",11.02,129.5,108.09584
+"823",229,"Specific Conductivity",12.03,138.2,107.08584
+"824",229,"Temperature",12.03,13.42,107.08584
+"825",229,"Specific Conductivity",13.03,144.4,106.08584
+"826",229,"Temperature",13.03,12.8,106.08584
+"827",229,"Temperature",14.01,11.76,105.10584
+"828",229,"Specific Conductivity",14.01,150.7,105.10584
+"829",229,"Specific Conductivity",15.02,152.2,104.09584
+"830",229,"Temperature",15.02,10.25,104.09584
+"831",229,"Specific Conductivity",16.04,152,103.07584
+"832",229,"Temperature",16.04,9.92,103.07584
+"833",229,"Temperature",17.04,9.8,102.07584
+"834",229,"Specific Conductivity",17.04,151.8,102.07584
+"835",229,"Specific Conductivity",18.08,151.7,101.03584
+"836",229,"Temperature",18.08,9.69,101.03584
+"837",229,"Specific Conductivity",20.02,151.6,99.09584
+"838",229,"Temperature",20.02,9.55,99.09584
+"839",229,"Temperature",21.99,9.37,97.12584
+"840",229,"Specific Conductivity",21.99,151.7,97.12584
+"841",229,"Specific Conductivity",24.02,151.5,95.09584
+"842",229,"Temperature",24.02,9.29,95.09584
+"843",229,"Specific Conductivity",26.03,151.2,93.08584
+"844",229,"Temperature",26.03,9.15,93.08584
+"845",229,"Temperature",28,9.04,91.11584
+"846",229,"Specific Conductivity",28,151.1,91.11584
+"847",229,"Specific Conductivity",30,151.2,89.11584
+"848",229,"Temperature",30,8.88,89.11584
+"849",236,"Temperature",0.5,24.21,118.530496
+"850",236,"Specific Conductivity",0.5,168.4,118.530496
+"851",236,"Specific Conductivity",1.01,168.4,118.020496
+"852",236,"Temperature",1.01,24.22,118.020496
+"853",236,"Specific Conductivity",2.01,168.4,117.020496
+"854",236,"Temperature",2.01,24.22,117.020496
+"855",236,"Temperature",3.02,24.21,116.010496
+"856",236,"Specific Conductivity",3.02,168.4,116.010496
+"857",236,"Specific Conductivity",4.01,168.4,115.020496
+"858",236,"Temperature",4.01,24.21,115.020496
+"859",236,"Temperature",5.01,24.2,114.020496
+"860",236,"Specific Conductivity",5.01,168.4,114.020496
+"861",236,"Temperature",6.01,24.18,113.020496
+"862",236,"Specific Conductivity",6.01,168.4,113.020496
+"863",236,"Temperature",7,17.34,112.030496
+"864",236,"Specific Conductivity",7,135.4,112.030496
+"865",236,"Temperature",7.51,16.88,111.520496
+"866",236,"Specific Conductivity",7.51,127.7,111.520496
+"867",236,"Specific Conductivity",8.02,126.5,111.010496
+"868",236,"Temperature",8.02,15.9,111.010496
+"869",236,"Temperature",8.5,14.88,110.530496
+"870",236,"Specific Conductivity",8.5,122.5,110.530496
+"871",236,"Temperature",9.02,14.58,110.010496
+"872",236,"Specific Conductivity",9.02,117.7,110.010496
+"873",236,"Temperature",9.51,14.57,109.520496
+"874",236,"Specific Conductivity",9.51,118.7,109.520496
+"875",236,"Temperature",10.07,14.56,108.960496
+"876",236,"Specific Conductivity",10.07,120.2,108.960496
+"877",236,"Temperature",10.52,14.43,108.510496
+"878",236,"Specific Conductivity",10.52,120.8,108.510496
+"879",236,"Specific Conductivity",11.01,121.9,108.020496
+"880",236,"Temperature",11.01,14.11,108.020496
+"881",236,"Temperature",11.51,13.88,107.520496
+"882",236,"Specific Conductivity",11.51,122.6,107.520496
+"883",236,"Specific Conductivity",12.01,121.3,107.020496
+"884",236,"Temperature",12.01,13.64,107.020496
+"885",236,"Temperature",13.02,12.31,106.010496
+"886",236,"Specific Conductivity",13.02,140.8,106.010496
+"887",236,"Specific Conductivity",13.99,150.6,105.040496
+"888",236,"Temperature",13.99,11.13,105.040496
+"889",236,"Specific Conductivity",15,151.7,104.030496
+"890",236,"Temperature",15,10.14,104.030496
+"891",236,"Specific Conductivity",16.02,151.3,103.010496
+"892",236,"Temperature",16.02,9.86,103.010496
+"893",236,"Specific Conductivity",18.01,151.5,101.020496
+"894",236,"Temperature",18.01,9.68,101.020496
+"895",236,"Specific Conductivity",20,151.6,99.030496
+"896",236,"Temperature",20,9.53,99.030496
+"897",236,"Specific Conductivity",22.02,151.5,97.010496
+"898",236,"Temperature",22.02,9.42,97.010496
+"899",236,"Temperature",24,9.32,95.030496
+"900",236,"Specific Conductivity",24,151.5,95.030496
+"901",236,"Temperature",26.1,9.25,92.930496
+"902",236,"Specific Conductivity",26.1,151.4,92.930496
+"903",236,"Temperature",28.08,9.13,90.950496
+"904",236,"Specific Conductivity",28.08,151.3,90.950496
+"905",236,"Specific Conductivity",30.02,151.2,89.010496
+"906",236,"Temperature",30.02,9.01,89.010496
+"907",257,"Temperature",0.53,20.81,118.598032
+"908",257,"Specific Conductivity",0.53,157.4,118.598032
+"909",257,"Temperature",1.02,20.8,118.108032
+"910",257,"Specific Conductivity",1.02,157.4,118.108032
+"911",257,"Specific Conductivity",2.03,157.4,117.098032
+"912",257,"Temperature",2.03,20.79,117.098032
+"913",257,"Specific Conductivity",3.02,157.5,116.108032
+"914",257,"Temperature",3.02,20.77,116.108032
+"915",257,"Temperature",4.02,20.76,115.108032
+"916",257,"Specific Conductivity",4.02,157.5,115.108032
+"917",257,"Temperature",5.01,20.71,114.118032
+"918",257,"Specific Conductivity",5.01,157.6,114.118032
+"919",257,"Specific Conductivity",6.03,157.8,113.098032
+"920",257,"Temperature",6.03,20.59,113.098032
+"921",257,"Temperature",6.56,20.12,112.568032
+"922",257,"Specific Conductivity",6.56,158.3,112.568032
+"923",257,"Temperature",7.01,20.04,112.118032
+"924",257,"Specific Conductivity",7.01,158.3,112.118032
+"925",257,"Temperature",7.52,20,111.608032
+"926",257,"Specific Conductivity",7.52,158.4,111.608032
+"927",257,"Temperature",8.03,19.57,111.098032
+"928",257,"Specific Conductivity",8.03,156.4,111.098032
+"929",257,"Specific Conductivity",8.49,118.5,110.638032
+"930",257,"Temperature",8.49,15.7,110.638032
+"931",257,"Temperature",9.01,15.23,110.118032
+"932",257,"Specific Conductivity",9.01,116.3,110.118032
+"933",257,"Temperature",9.51,15.05,109.618032
+"934",257,"Specific Conductivity",9.51,116,109.618032
+"935",257,"Temperature",10.02,14.43,109.108032
+"936",257,"Specific Conductivity",10.02,114.8,109.108032
+"937",257,"Specific Conductivity",11,114.2,108.128032
+"938",257,"Temperature",11,13.9,108.128032
+"939",257,"Specific Conductivity",12.03,117.8,107.098032
+"940",257,"Temperature",12.03,13.52,107.098032
+"941",257,"Temperature",13.02,12.92,106.108032
+"942",257,"Specific Conductivity",13.02,126.5,106.108032
+"943",257,"Specific Conductivity",14,140.5,105.128032
+"944",257,"Temperature",14,11.88,105.128032
+"945",257,"Temperature",15.01,11.2,104.118032
+"946",257,"Specific Conductivity",15.01,145.3,104.118032
+"947",257,"Temperature",16.02,10.41,103.108032
+"948",257,"Specific Conductivity",16.02,148.8,103.108032
+"949",257,"Specific Conductivity",18.05,150.4,101.078032
+"950",257,"Temperature",18.05,9.96,101.078032
+"951",257,"Specific Conductivity",20.02,150.8,99.108032
+"952",257,"Temperature",20.02,9.71,99.108032
+"953",257,"Specific Conductivity",22.06,151.1,97.068032
+"954",257,"Temperature",22.06,9.61,97.068032
+"955",257,"Specific Conductivity",24.01,151.1,95.118032
+"956",257,"Temperature",24.01,9.53,95.118032
+"957",257,"Temperature",26.02,9.36,93.108032
+"958",257,"Specific Conductivity",26.02,151.3,93.108032
+"959",257,"Specific Conductivity",28.05,151.2,91.078032
+"960",257,"Temperature",28.05,9.23,91.078032
+"961",257,"Temperature",30.03,9.15,89.098032
+"962",257,"Specific Conductivity",30.03,151.3,89.098032
+"963",264,"Temperature",0.55,19.66,118.556696
+"964",264,"Specific Conductivity",0.55,150.6,118.556696
+"965",264,"Specific Conductivity",1,150.7,118.106696
+"966",264,"Temperature",1,19.68,118.106696
+"967",264,"Specific Conductivity",2.03,150.6,117.076696
+"968",264,"Temperature",2.03,19.63,117.076696
+"969",264,"Temperature",3.01,19.66,116.096696
+"970",264,"Specific Conductivity",3.01,150.7,116.096696
+"971",264,"Specific Conductivity",4,150.4,115.106696
+"972",264,"Temperature",4,19.57,115.106696
+"973",264,"Temperature",5.02,19.54,114.086696
+"974",264,"Specific Conductivity",5.02,150.3,114.086696
+"975",264,"Temperature",5.99,19.54,113.116696
+"976",264,"Specific Conductivity",5.99,150.4,113.116696
+"977",264,"Specific Conductivity",7.03,149.6,112.076696
+"978",264,"Temperature",7.03,19.46,112.076696
+"979",264,"Specific Conductivity",7.53,143.3,111.576696
+"980",264,"Temperature",7.53,18.86,111.576696
+"981",264,"Temperature",8.02,15.77,111.086696
+"982",264,"Specific Conductivity",8.02,114.2,111.086696
+"983",264,"Specific Conductivity",8.52,113.3,110.586696
+"984",264,"Temperature",8.52,15.65,110.586696
+"985",264,"Temperature",9.48,14.5,109.626696
+"986",264,"Specific Conductivity",9.48,110.2,109.626696
+"987",264,"Specific Conductivity",9.99,110.1,109.116696
+"988",264,"Temperature",9.99,14.45,109.116696
+"989",264,"Temperature",10.53,14.38,108.576696
+"990",264,"Specific Conductivity",10.53,110,108.576696
+"991",264,"Temperature",11.02,14.03,108.086696
+"992",264,"Specific Conductivity",11.02,111.1,108.086696
+"993",264,"Specific Conductivity",11.52,113.8,107.586696
+"994",264,"Temperature",11.52,13.78,107.586696
+"995",264,"Temperature",12.05,13.52,107.056696
+"996",264,"Specific Conductivity",12.05,116.1,107.056696
+"997",264,"Temperature",12.52,13.17,106.586696
+"998",264,"Specific Conductivity",12.52,124.5,106.586696
+"999",264,"Temperature",13.01,12.98,106.096696
+"1000",264,"Specific Conductivity",13.01,126.6,106.096696
+"1001",264,"Specific Conductivity",14.03,135.5,105.076696
+"1002",264,"Temperature",14.03,12.23,105.076696
+"1003",264,"Temperature",16,10.2,103.106696
+"1004",264,"Specific Conductivity",16,149.6,103.106696
+"1005",264,"Specific Conductivity",18.14,150.6,100.966696
+"1006",264,"Temperature",18.14,9.77,100.966696
+"1007",264,"Specific Conductivity",20.03,150.8,99.076696
+"1008",264,"Temperature",20.03,9.65,99.076696
+"1009",264,"Temperature",22,9.55,97.106696
+"1010",264,"Specific Conductivity",22,151.1,97.106696
+"1011",264,"Temperature",24.05,9.45,95.056696
+"1012",264,"Specific Conductivity",24.05,151.1,95.056696
+"1013",264,"Specific Conductivity",26.07,151.2,93.036696
+"1014",264,"Temperature",26.07,9.39,93.036696
+"1015",264,"Specific Conductivity",28.04,151.4,91.066696
+"1016",264,"Temperature",28.04,9.2,91.066696
+"1017",264,"Specific Conductivity",29.99,151.7,89.116696
+"1018",264,"Temperature",29.99,9.1,89.116696
+"1019",271,"Temperature",0.56,22.61,118.476592
+"1020",271,"Specific Conductivity",0.56,155.2,118.476592
+"1021",271,"Specific Conductivity",1.02,155.2,118.016592
+"1022",271,"Temperature",1.02,22.62,118.016592
+"1023",271,"Specific Conductivity",2.03,155.3,117.006592
+"1024",271,"Temperature",2.03,22.62,117.006592
+"1025",271,"Temperature",3.04,22.61,115.996592
+"1026",271,"Specific Conductivity",3.04,155.2,115.996592
+"1027",271,"Specific Conductivity",4.01,155.2,115.026592
+"1028",271,"Temperature",4.01,22.61,115.026592
+"1029",271,"Specific Conductivity",5.02,149.6,114.016592
+"1030",271,"Temperature",5.02,20.67,114.016592
+"1031",271,"Temperature",6,19.84,113.036592
+"1032",271,"Specific Conductivity",6,147.6,113.036592
+"1033",271,"Temperature",5.53,20.3,113.506592
+"1034",271,"Specific Conductivity",5.53,149.2,113.506592
+"1035",271,"Specific Conductivity",6.54,147,112.496592
+"1036",271,"Temperature",6.54,19.56,112.496592
+"1037",271,"Temperature",7.01,19.09,112.026592
+"1038",271,"Specific Conductivity",7.01,145.9,112.026592
+"1039",271,"Temperature",7.54,18.92,111.496592
+"1040",271,"Specific Conductivity",7.54,145,111.496592
+"1041",271,"Specific Conductivity",8.01,143.3,111.026592
+"1042",271,"Temperature",8.01,18.66,111.026592
+"1043",271,"Specific Conductivity",8.51,139.7,110.526592
+"1044",271,"Temperature",8.51,18.09,110.526592
+"1045",271,"Temperature",9.02,17.08,110.016592
+"1046",271,"Specific Conductivity",9.02,127.9,110.016592
+"1047",271,"Temperature",9.52,16.19,109.516592
+"1048",271,"Specific Conductivity",9.52,120.1,109.516592
+"1049",271,"Temperature",10.03,15.03,109.006592
+"1050",271,"Specific Conductivity",10.03,113.6,109.006592
+"1051",271,"Specific Conductivity",11.02,111.1,108.016592
+"1052",271,"Temperature",11.02,14.39,108.016592
+"1053",271,"Temperature",12,13.78,107.036592
+"1054",271,"Specific Conductivity",12,112.9,107.036592
+"1055",271,"Temperature",13.12,13.06,105.916592
+"1056",271,"Specific Conductivity",13.12,123.3,105.916592
+"1057",271,"Temperature",14.05,11.63,104.986592
+"1058",271,"Specific Conductivity",14.05,139,104.986592
+"1059",271,"Temperature",14.99,10.72,104.046592
+"1060",271,"Specific Conductivity",14.99,146.8,104.046592
+"1061",271,"Temperature",15,10.75,104.036592
+"1062",271,"Specific Conductivity",15,146.6,104.036592
+"1063",271,"Specific Conductivity",15.97,149.2,103.066592
+"1064",271,"Temperature",15.97,10.21,103.066592
+"1065",271,"Temperature",18.03,9.82,101.006592
+"1066",271,"Specific Conductivity",18.03,150.3,101.006592
+"1067",271,"Specific Conductivity",20.01,150.6,99.026592
+"1068",271,"Temperature",20.01,9.71,99.026592
+"1069",271,"Specific Conductivity",22.1,150.7,96.936592
+"1070",271,"Temperature",22.1,9.65,96.936592
+"1071",271,"Specific Conductivity",24.02,151,95.016592
+"1072",271,"Temperature",24.02,9.56,95.016592
+"1073",271,"Specific Conductivity",26.04,151,92.996592
+"1074",271,"Temperature",26.04,9.48,92.996592
+"1075",271,"Temperature",28.03,9.34,91.006592
+"1076",271,"Specific Conductivity",28.03,151.2,91.006592
+"1077",271,"Specific Conductivity",30,151.4,89.036592
+"1078",271,"Temperature",30,9.17,89.036592
+"1079",276,"Specific Conductivity",0.51,149.2,118.477824
+"1080",276,"Temperature",0.51,18.83,118.477824
+"1081",276,"Temperature",1.01,18.83,117.977824
+"1082",276,"Specific Conductivity",1.01,149.2,117.977824
+"1083",276,"Temperature",2,18.82,116.987824
+"1084",276,"Specific Conductivity",2,149.1,116.987824
+"1085",276,"Specific Conductivity",3.01,149.1,115.977824
+"1086",276,"Temperature",3.01,18.81,115.977824
+"1087",276,"Temperature",4.01,18.8,114.977824
+"1088",276,"Specific Conductivity",4.01,149.1,114.977824
+"1089",276,"Temperature",5,18.8,113.987824
+"1090",276,"Specific Conductivity",5,149,113.987824
+"1091",276,"Temperature",6,18.78,112.987824
+"1092",276,"Specific Conductivity",6,149.1,112.987824
+"1093",276,"Temperature",6.51,18.78,112.477824
+"1094",276,"Specific Conductivity",6.51,149.1,112.477824
+"1095",276,"Temperature",7.01,18.76,111.977824
+"1096",276,"Specific Conductivity",7.01,149.1,111.977824
+"1097",276,"Specific Conductivity",7.49,149.1,111.497824
+"1098",276,"Temperature",7.49,18.75,111.497824
+"1099",276,"Specific Conductivity",8.01,149.2,110.977824
+"1100",276,"Temperature",8.01,18.75,110.977824
+"1101",276,"Specific Conductivity",8.51,149.2,110.477824
+"1102",276,"Temperature",8.51,18.71,110.477824
+"1103",276,"Specific Conductivity",9.01,137.7,109.977824
+"1104",276,"Temperature",9.01,17.71,109.977824
+"1105",276,"Specific Conductivity",9.5,120.8,109.487824
+"1106",276,"Temperature",9.5,16.15,109.487824
+"1107",276,"Specific Conductivity",10,118.3,108.987824
+"1108",276,"Temperature",10,15.57,108.987824
+"1109",276,"Temperature",10.51,15.18,108.477824
+"1110",276,"Specific Conductivity",10.51,114.5,108.477824
+"1111",276,"Specific Conductivity",11,114.4,107.987824
+"1112",276,"Temperature",11,14.7,107.987824
+"1113",276,"Temperature",11.51,14.1,107.477824
+"1114",276,"Specific Conductivity",11.51,114.7,107.477824
+"1115",276,"Temperature",12.01,13.81,106.977824
+"1116",276,"Specific Conductivity",12.01,115.2,106.977824
+"1117",276,"Specific Conductivity",12.51,116.8,106.477824
+"1118",276,"Temperature",12.51,13.56,106.477824
+"1119",276,"Specific Conductivity",13,119.2,105.987824
+"1120",276,"Temperature",13,13.26,105.987824
+"1121",276,"Specific Conductivity",13.53,122.8,105.457824
+"1122",276,"Temperature",13.53,12.82,105.457824
+"1123",276,"Temperature",14,12.21,104.987824
+"1124",276,"Specific Conductivity",14,129.9,104.987824
+"1125",276,"Temperature",14.51,11.26,104.477824
+"1126",276,"Specific Conductivity",14.51,141.4,104.477824
+"1127",276,"Specific Conductivity",15,144.9,103.987824
+"1128",276,"Temperature",15,10.82,103.987824
+"1129",276,"Temperature",15.5,10.49,103.487824
+"1130",276,"Specific Conductivity",15.5,147,103.487824
+"1131",276,"Temperature",15.99,10.26,102.997824
+"1132",276,"Specific Conductivity",15.99,148.1,102.997824
+"1133",276,"Temperature",17,10.11,101.987824
+"1134",276,"Specific Conductivity",17,148.8,101.987824
+"1135",276,"Temperature",18.01,10.02,100.977824
+"1136",276,"Specific Conductivity",18.01,149.4,100.977824
+"1137",276,"Specific Conductivity",19.02,149.9,99.967824
+"1138",276,"Temperature",19.02,9.88,99.967824
+"1139",276,"Specific Conductivity",20,150.2,98.987824
+"1140",276,"Temperature",20,9.79,98.987824
+"1141",276,"Specific Conductivity",22.01,150.3,96.977824
+"1142",276,"Temperature",22.01,9.75,96.977824
+"1143",276,"Specific Conductivity",24.04,150.6,94.947824
+"1144",276,"Temperature",24.04,9.69,94.947824
+"1145",276,"Temperature",26.04,9.54,92.947824
+"1146",276,"Specific Conductivity",26.04,150.8,92.947824
+"1147",276,"Specific Conductivity",27.99,151.2,90.997824
+"1148",276,"Temperature",27.99,9.39,90.997824
+"1149",276,"Temperature",30.02,9.24,88.967824
+"1150",276,"Specific Conductivity",30.02,151.3,88.967824
+"1151",284,"Temperature",0.51,19.5,118.49916
+"1152",284,"Specific Conductivity",0.51,147.8,118.49916
+"1153",284,"Temperature",1.01,19.51,117.99916
+"1154",284,"Specific Conductivity",1.01,147.8,117.99916
+"1155",284,"Specific Conductivity",2,147.9,117.00916
+"1156",284,"Temperature",2,19.51,117.00916
+"1157",284,"Specific Conductivity",3,147.9,116.00916
+"1158",284,"Temperature",3,19.48,116.00916
+"1159",284,"Specific Conductivity",4,147.7,115.00916
+"1160",284,"Temperature",4,19.43,115.00916
+"1161",284,"Specific Conductivity",5.01,147.8,113.99916
+"1162",284,"Temperature",5.01,19.41,113.99916
+"1163",284,"Specific Conductivity",6,147.8,113.00916
+"1164",284,"Temperature",6,19.39,113.00916
+"1165",284,"Temperature",7.01,19.34,111.99916
+"1166",284,"Specific Conductivity",7.01,147.8,111.99916
+"1167",284,"Temperature",7.49,19.18,111.51916
+"1168",284,"Specific Conductivity",7.49,147.2,111.51916
+"1169",284,"Specific Conductivity",8,147,111.00916
+"1170",284,"Temperature",8,19.05,111.00916
+"1171",284,"Specific Conductivity",8.51,146.5,110.49916
+"1172",284,"Temperature",8.51,18.79,110.49916
+"1173",284,"Temperature",9,18.16,110.00916
+"1174",284,"Specific Conductivity",9,143.4,110.00916
+"1175",284,"Specific Conductivity",9.51,120.2,109.49916
+"1176",284,"Temperature",9.51,15.92,109.49916
+"1177",284,"Temperature",10.04,15.07,108.96916
+"1178",284,"Specific Conductivity",10.04,113.5,108.96916
+"1179",284,"Specific Conductivity",10.58,111,108.42916
+"1180",284,"Temperature",10.58,14.54,108.42916
+"1181",284,"Temperature",11.03,14.13,107.97916
+"1182",284,"Specific Conductivity",11.03,110.7,107.97916
+"1183",284,"Temperature",12.04,13.7,106.96916
+"1184",284,"Specific Conductivity",12.04,115.1,106.96916
+"1185",284,"Temperature",13.02,13.13,105.98916
+"1186",284,"Specific Conductivity",13.02,119.9,105.98916
+"1187",284,"Temperature",14.01,11.9,104.99916
+"1188",284,"Specific Conductivity",14.01,132.7,104.99916
+"1189",284,"Specific Conductivity",15.01,141.5,103.99916
+"1190",284,"Temperature",15.01,11.12,103.99916
+"1191",284,"Specific Conductivity",15.94,145.8,103.06916
+"1192",284,"Temperature",15.94,10.5,103.06916
+"1193",284,"Temperature",18.01,10.06,100.99916
+"1194",284,"Specific Conductivity",18.01,148.2,100.99916
+"1195",284,"Specific Conductivity",19.95,149.1,99.05916
+"1196",284,"Temperature",19.95,9.95,99.05916
+"1197",284,"Specific Conductivity",22.01,149.5,96.99916
+"1198",284,"Temperature",22.01,9.84,96.99916
+"1199",284,"Temperature",23.96,9.76,95.04916
+"1200",284,"Specific Conductivity",23.96,149.9,95.04916
+"1201",284,"Temperature",26,9.71,93.00916
+"1202",284,"Specific Conductivity",26,150.1,93.00916
+"1203",284,"Specific Conductivity",28.01,150.9,90.99916
+"1204",284,"Temperature",28.01,9.47,90.99916
+"1205",284,"Specific Conductivity",30.03,150.9,88.97916
+"1206",284,"Temperature",30.03,9.45,88.97916
+"1207",290,"Specific Conductivity",0.51,143.8,118.496112
+"1208",290,"Temperature",0.51,17.25,118.496112
+"1209",290,"Specific Conductivity",1,143.8,118.006112
+"1210",290,"Temperature",1,17.25,118.006112
+"1211",290,"Temperature",2,17.23,117.006112
+"1212",290,"Specific Conductivity",2,143.7,117.006112
+"1213",290,"Specific Conductivity",3.01,143.8,115.996112
+"1214",290,"Temperature",3.01,17.22,115.996112
+"1215",290,"Specific Conductivity",4.01,143.8,114.996112
+"1216",290,"Temperature",4.01,17.22,114.996112
+"1217",290,"Temperature",5,17.21,114.006112
+"1218",290,"Specific Conductivity",5,143.7,114.006112
+"1219",290,"Temperature",6,17.2,113.006112
+"1220",290,"Specific Conductivity",6,143.6,113.006112
+"1221",290,"Specific Conductivity",7,143.4,112.006112
+"1222",290,"Temperature",7,17.18,112.006112
+"1223",290,"Specific Conductivity",8,143.5,111.006112
+"1224",290,"Temperature",8,17.17,111.006112
+"1225",290,"Specific Conductivity",9.5,142.4,109.506112
+"1226",290,"Temperature",9.5,17.07,109.506112
+"1227",290,"Specific Conductivity",10,136.3,109.006112
+"1228",290,"Temperature",10,16.56,109.006112
+"1229",290,"Temperature",10.51,16.02,108.496112
+"1230",290,"Specific Conductivity",10.51,132.4,108.496112
+"1231",290,"Specific Conductivity",11,119.5,108.006112
+"1232",290,"Temperature",11,15.1,108.006112
+"1233",290,"Temperature",11.49,14.15,107.516112
+"1234",290,"Specific Conductivity",11.49,114.4,107.516112
+"1235",290,"Temperature",12.02,13.51,106.986112
+"1236",290,"Specific Conductivity",12.02,114.2,106.986112
+"1237",290,"Temperature",13,13.01,106.006112
+"1238",290,"Specific Conductivity",13,118.4,106.006112
+"1239",290,"Temperature",14,12.35,105.006112
+"1240",290,"Specific Conductivity",14,125.4,105.006112
+"1241",290,"Temperature",15,11.01,104.006112
+"1242",290,"Specific Conductivity",15,141.1,104.006112
+"1243",290,"Temperature",16,10.78,103.006112
+"1244",290,"Specific Conductivity",16,143.5,103.006112
+"1245",290,"Specific Conductivity",17.01,146,101.996112
+"1246",290,"Temperature",17.01,10.51,101.996112
+"1247",290,"Specific Conductivity",18,145.7,101.006112
+"1248",290,"Temperature",18,10.41,101.006112
+"1249",290,"Specific Conductivity",20.01,147.5,98.996112
+"1250",290,"Temperature",20.01,10.13,98.996112
+"1251",290,"Temperature",22,10.01,97.006112
+"1252",290,"Specific Conductivity",22,148.4,97.006112
+"1253",290,"Temperature",24,9.93,95.006112
+"1254",290,"Specific Conductivity",24,148.9,95.006112
+"1255",290,"Temperature",26,9.84,93.006112
+"1256",290,"Specific Conductivity",26,149.3,93.006112
+"1257",290,"Temperature",28.06,9.69,90.946112
+"1258",290,"Specific Conductivity",28.06,150.1,90.946112
+"1259",290,"Specific Conductivity",30.01,150.3,88.996112
+"1260",290,"Temperature",30.01,9.61,88.996112
+"1261",296,"Temperature",0.5,16.59,118.475632
+"1262",296,"Specific Conductivity",0.5,142.4,118.475632
+"1263",296,"Specific Conductivity",1,142.2,117.975632
+"1264",296,"Temperature",1,16.56,117.975632
+"1265",296,"Specific Conductivity",2.01,142.1,116.965632
+"1266",296,"Temperature",2.01,16.53,116.965632
+"1267",296,"Specific Conductivity",3.02,142.1,115.955632
+"1268",296,"Temperature",3.02,16.5,115.955632
+"1269",296,"Specific Conductivity",4.02,142,114.955632
+"1270",296,"Temperature",4.02,16.48,114.955632
+"1271",296,"Specific Conductivity",5.11,142,113.865632
+"1272",296,"Temperature",5.11,16.45,113.865632
+"1273",296,"Temperature",6.09,16.38,112.885632
+"1274",296,"Specific Conductivity",6.09,141.6,112.885632
+"1275",296,"Temperature",7.02,16.36,111.955632
+"1276",296,"Specific Conductivity",7.02,141.5,111.955632
+"1277",296,"Temperature",7.5,16.33,111.475632
+"1278",296,"Specific Conductivity",7.5,141.7,111.475632
+"1279",296,"Temperature",7.99,16.23,110.985632
+"1280",296,"Specific Conductivity",7.99,142,110.985632
+"1281",296,"Specific Conductivity",9.01,140.6,109.965632
+"1282",296,"Temperature",9.01,16.15,109.965632
+"1283",296,"Temperature",10,16.05,108.975632
+"1284",296,"Specific Conductivity",10,139.9,108.975632
+"1285",296,"Temperature",10.48,15.79,108.495632
+"1286",296,"Specific Conductivity",10.48,138.1,108.495632
+"1287",296,"Specific Conductivity",11.01,133.8,107.965632
+"1288",296,"Temperature",11.01,15.37,107.965632
+"1289",296,"Specific Conductivity",11.49,108.3,107.485632
+"1290",296,"Temperature",11.49,14.26,107.485632
+"1291",296,"Temperature",12,13.99,106.975632
+"1292",296,"Specific Conductivity",12,113,106.975632
+"1293",296,"Specific Conductivity",13.02,116.5,105.955632
+"1294",296,"Temperature",13.02,13.52,105.955632
+"1295",296,"Temperature",14,12.17,104.975632
+"1296",296,"Specific Conductivity",14,129.6,104.975632
+"1297",296,"Specific Conductivity",16.02,142.1,102.955632
+"1298",296,"Temperature",16.02,10.99,102.955632
+"1299",296,"Temperature",18.01,10.31,100.965632
+"1300",296,"Specific Conductivity",18.01,146.6,100.965632
+"1301",296,"Temperature",19.9,10.16,99.075632
+"1302",296,"Specific Conductivity",19.9,147.2,99.075632
+"1303",296,"Temperature",21.98,10.09,96.995632
+"1304",296,"Specific Conductivity",21.98,147.7,96.995632
+"1305",296,"Specific Conductivity",23.94,148.5,95.035632
+"1306",296,"Temperature",23.94,9.95,95.035632
+"1307",296,"Specific Conductivity",26,149,92.975632
+"1308",296,"Temperature",26,9.88,92.975632
+"1309",296,"Temperature",28.01,9.79,90.965632
+"1310",296,"Specific Conductivity",28.01,149.4,90.965632
+"1311",296,"Temperature",29,9.65,89.975632
+"1312",296,"Specific Conductivity",29,150,89.975632
+"1313",296,"Specific Conductivity",30.01,150.4,88.965632
+"1314",296,"Temperature",30.01,9.58,88.965632
+"1315",305,"Temperature",0.5,14.55,118.896256
+"1316",305,"Specific Conductivity",0.5,135.7,118.896256
+"1317",305,"Temperature",1.01,14.57,118.386256
+"1318",305,"Specific Conductivity",1.01,135.5,118.386256
+"1319",305,"Specific Conductivity",2.01,135.6,117.386256
+"1320",305,"Temperature",2.01,14.56,117.386256
+"1321",305,"Temperature",3,14.56,116.396256
+"1322",305,"Specific Conductivity",3,135.5,116.396256
+"1323",305,"Specific Conductivity",4,135.6,115.396256
+"1324",305,"Temperature",4,14.56,115.396256
+"1325",305,"Temperature",5,14.56,114.396256
+"1326",305,"Specific Conductivity",5,135.6,114.396256
+"1327",305,"Specific Conductivity",6.01,135.5,113.386256
+"1328",305,"Temperature",6.01,14.56,113.386256
+"1329",305,"Temperature",7.01,14.56,112.386256
+"1330",305,"Specific Conductivity",7.01,135.6,112.386256
+"1331",305,"Specific Conductivity",8.01,135.5,111.386256
+"1332",305,"Temperature",8.01,14.56,111.386256
+"1333",305,"Temperature",9.01,14.56,110.386256
+"1334",305,"Specific Conductivity",9.01,135.6,110.386256
+"1335",305,"Specific Conductivity",10.02,135.5,109.376256
+"1336",305,"Temperature",10.02,14.56,109.376256
+"1337",305,"Temperature",11.01,14.55,108.386256
+"1338",305,"Specific Conductivity",11.01,135.5,108.386256
+"1339",305,"Temperature",12.02,14.54,107.376256
+"1340",305,"Specific Conductivity",12.02,135.6,107.376256
+"1341",305,"Temperature",13.01,14.46,106.386256
+"1342",305,"Specific Conductivity",13.01,135.6,106.386256
+"1343",305,"Temperature",13.51,14.39,105.886256
+"1344",305,"Specific Conductivity",13.51,135.8,105.886256
+"1345",305,"Temperature",14.01,14.22,105.386256
+"1346",305,"Specific Conductivity",14.01,136,105.386256
+"1347",305,"Specific Conductivity",14.51,136.9,104.886256
+"1348",305,"Temperature",14.51,13.72,104.886256
+"1349",305,"Temperature",15.01,13.3,104.386256
+"1350",305,"Specific Conductivity",15.01,138.1,104.386256
+"1351",305,"Temperature",15.5,12.35,103.896256
+"1352",305,"Specific Conductivity",15.5,139.9,103.896256
+"1353",305,"Temperature",16.01,11.95,103.386256
+"1354",305,"Specific Conductivity",16.01,140.5,103.386256
+"1355",305,"Temperature",16.52,11.63,102.876256
+"1356",305,"Specific Conductivity",16.52,140.9,102.876256
+"1357",305,"Specific Conductivity",17.01,141.8,102.386256
+"1358",305,"Temperature",17.01,11.38,102.386256
+"1359",305,"Temperature",18,11.06,101.396256
+"1360",305,"Specific Conductivity",18,142.7,101.396256
+"1361",305,"Specific Conductivity",19,143.3,100.396256
+"1362",305,"Temperature",19,10.85,100.396256
+"1363",305,"Temperature",20.01,10.6,99.386256
+"1364",305,"Specific Conductivity",20.01,144.3,99.386256
+"1365",305,"Temperature",22.01,10.55,97.386256
+"1366",305,"Specific Conductivity",22.01,144.6,97.386256
+"1367",305,"Specific Conductivity",24.02,144.7,95.376256
+"1368",305,"Temperature",24.02,10.54,95.376256
+"1369",305,"Specific Conductivity",26.02,145,93.376256
+"1370",305,"Temperature",26.02,10.47,93.376256
+"1371",305,"Specific Conductivity",28.01,145.6,91.386256
+"1372",305,"Temperature",28.01,10.38,91.386256
+"1373",305,"Temperature",29,10.3,90.396256
+"1374",305,"Specific Conductivity",29,146.1,90.396256
+"1375",305,"Temperature",30.01,10.16,89.386256
+"1376",305,"Specific Conductivity",30.01,146.9,89.386256
+"1377",305,"Specific Conductivity",30.52,147.1,88.876256
+"1378",305,"Temperature",30.52,10.12,88.876256
+"1379",312,"Specific Conductivity",0.51,135.4,118.764336
+"1380",312,"Temperature",0.51,13.38,118.764336
+"1381",312,"Specific Conductivity",1.03,135.4,118.244336
+"1382",312,"Temperature",1.03,13.38,118.244336
+"1383",312,"Temperature",2.03,13.38,117.244336
+"1384",312,"Specific Conductivity",2.03,135.3,117.244336
+"1385",312,"Specific Conductivity",3,135.4,116.274336
+"1386",312,"Temperature",3,13.39,116.274336
+"1387",312,"Temperature",4.04,13.39,115.234336
+"1388",312,"Specific Conductivity",4.04,135.3,115.234336
+"1389",312,"Specific Conductivity",6.02,135.4,113.254336
+"1390",312,"Temperature",6.02,13.39,113.254336
+"1391",312,"Temperature",8.04,13.38,111.234336
+"1392",312,"Specific Conductivity",8.04,135.4,111.234336
+"1393",312,"Temperature",10.03,13.38,109.244336
+"1394",312,"Specific Conductivity",10.03,135.5,109.244336
+"1395",312,"Temperature",12.01,13.37,107.264336
+"1396",312,"Specific Conductivity",12.01,135.4,107.264336
+"1397",312,"Specific Conductivity",13,135.6,106.274336
+"1398",312,"Temperature",13,13.32,106.274336
+"1399",312,"Specific Conductivity",14.01,136.7,105.264336
+"1400",312,"Temperature",14.01,12.92,105.264336
+"1401",312,"Temperature",15.9,11.21,103.374336
+"1402",312,"Specific Conductivity",15.9,141.3,103.374336
+"1403",312,"Temperature",18.11,10.95,101.164336
+"1404",312,"Specific Conductivity",18.11,142.5,101.164336
+"1405",312,"Temperature",20.05,10.83,99.224336
+"1406",312,"Specific Conductivity",20.05,143.1,99.224336
+"1407",312,"Temperature",22,10.68,97.274336
+"1408",312,"Specific Conductivity",22,143.8,97.274336
+"1409",312,"Specific Conductivity",24.06,144.1,95.214336
+"1410",312,"Temperature",24.06,10.63,95.214336
+"1411",312,"Specific Conductivity",26.01,144.8,93.264336
+"1412",312,"Temperature",26.01,10.51,93.264336
+"1413",312,"Specific Conductivity",28.01,146,91.264336
+"1414",312,"Temperature",28.01,10.29,91.264336
+"1415",312,"Specific Conductivity",30.04,146.9,89.234336
+"1416",312,"Temperature",30.04,10.14,89.234336
+"1417",319,"Specific Conductivity",14.99,137.1,104.086216
+"1418",319,"Specific Conductivity",12,137.2,107.076216
+"1419",319,"Specific Conductivity",13.98,137.1,105.096216
+"1420",319,"Specific Conductivity",7.99,137.2,111.086216
+"1421",319,"Specific Conductivity",9.97,137.2,109.106216
+"1422",319,"Specific Conductivity",17.95,137,101.126216
+"1423",319,"Specific Conductivity",16.99,137.1,102.086216
+"1424",319,"Specific Conductivity",15.99,137,103.086216
+"1425",319,"Specific Conductivity",27.99,137,91.086216
+"1426",319,"Specific Conductivity",18.99,137.1,100.086216
+"1427",319,"Specific Conductivity",20.01,137.1,99.066216
+"1428",319,"Specific Conductivity",21.01,137,98.066216
+"1429",319,"Specific Conductivity",22,137.1,97.076216
+"1430",319,"Specific Conductivity",23.02,137,96.056216
+"1431",319,"Specific Conductivity",23.98,137,95.096216
+"1432",319,"Specific Conductivity",25,137,94.076216
+"1433",319,"Specific Conductivity",26.99,137,92.086216
+"1434",319,"Specific Conductivity",28.98,137,90.096216
+"1435",319,"Specific Conductivity",29.84,137,89.236216
+"1436",319,"Specific Conductivity",6,137.3,113.076216
+"1437",319,"Specific Conductivity",26,137,93.076216
+"1438",319,"Temperature",9.97,10.86,109.106216
+"1439",319,"Temperature",26.99,10.73,92.086216
+"1440",319,"Temperature",26,10.74,93.076216
+"1441",319,"Temperature",25,10.74,94.076216
+"1442",319,"Temperature",23.98,10.74,95.096216
+"1443",319,"Temperature",23.02,10.74,96.056216
+"1444",319,"Temperature",22,10.74,97.076216
+"1445",319,"Temperature",21.01,10.74,98.066216
+"1446",319,"Temperature",20.01,10.74,99.066216
+"1447",319,"Temperature",18.99,10.76,100.086216
+"1448",319,"Temperature",17.95,10.78,101.126216
+"1449",319,"Temperature",16.99,10.78,102.086216
+"1450",319,"Temperature",28.98,10.72,90.096216
+"1451",319,"Temperature",12,10.85,107.076216
+"1452",319,"Temperature",29.84,10.71,89.236216
+"1453",319,"Temperature",7.99,10.86,111.086216
+"1454",319,"Temperature",6,10.87,113.076216
+"1455",319,"Temperature",4.01,10.87,115.066216
+"1456",319,"Temperature",3.19,10.89,115.886216
+"1457",319,"Temperature",2,10.92,117.076216
+"1458",319,"Temperature",1.01,10.91,118.066216
+"1459",319,"Temperature",0.5,10.92,118.576216
+"1460",319,"Temperature",14.99,10.83,104.086216
+"1461",319,"Specific Conductivity",4.01,137.3,115.066216
+"1462",319,"Temperature",27.99,10.73,91.086216
+"1463",319,"Temperature",13.98,10.84,105.096216
+"1464",319,"Temperature",15.99,10.77,103.086216
+"1465",319,"Specific Conductivity",0.5,137.3,118.576216
+"1466",319,"Specific Conductivity",1.01,137.2,118.066216
+"1467",319,"Specific Conductivity",2,137.3,117.076216
+"1468",319,"Specific Conductivity",3.19,137.2,115.886216
+"1469",338,"Temperature",30.01,7.65,89.047928
+"1470",338,"Temperature",29.04,7.65,90.017928
+"1471",338,"Temperature",28.02,7.66,91.037928
+"1472",338,"Specific Conductivity",2.01,138,117.047928
+"1473",338,"Temperature",20.02,7.73,99.037928
+"1474",338,"Temperature",16.01,7.77,103.047928
+"1475",338,"Temperature",18,7.75,101.057928
+"1476",338,"Temperature",26.04,7.68,93.017928
+"1477",338,"Temperature",24.01,7.72,95.047928
+"1478",338,"Temperature",22.08,7.73,96.977928
+"1479",338,"Temperature",20.01,7.74,99.047928
+"1480",338,"Specific Conductivity",3.02,138,116.037928
+"1481",338,"Specific Conductivity",0.55,138,118.507928
+"1482",338,"Specific Conductivity",12.02,137.9,107.037928
+"1483",338,"Specific Conductivity",4.01,137.9,115.047928
+"1484",338,"Specific Conductivity",8.04,138,111.017928
+"1485",338,"Specific Conductivity",22.08,137.9,96.977928
+"1486",338,"Specific Conductivity",10.01,137.9,109.047928
+"1487",338,"Specific Conductivity",14.02,138,105.037928
+"1488",338,"Specific Conductivity",16.01,137.9,103.047928
+"1489",338,"Specific Conductivity",18,138,101.057928
+"1490",338,"Specific Conductivity",20.01,138,99.047928
+"1491",338,"Specific Conductivity",6.03,137.9,113.027928
+"1492",338,"Specific Conductivity",24.01,137.9,95.047928
+"1493",338,"Specific Conductivity",26.04,137.8,93.017928
+"1494",338,"Specific Conductivity",28.02,137.9,91.037928
+"1495",338,"Specific Conductivity",29.04,137.8,90.017928
+"1496",338,"Specific Conductivity",30.01,137.9,89.047928
+"1497",338,"Specific Conductivity",20.02,137.9,99.037928
+"1498",338,"Specific Conductivity",1.01,137.9,118.047928
+"1499",338,"Temperature",8.04,7.79,111.017928
+"1500",338,"Temperature",12.02,7.78,107.037928
+"1501",338,"Temperature",10.01,7.79,109.047928
+"1502",338,"Temperature",6.03,7.79,113.027928
+"1503",338,"Temperature",4.01,7.79,115.047928
+"1504",338,"Temperature",3.02,7.79,116.037928
+"1505",338,"Temperature",2.01,7.8,117.047928
+"1506",338,"Temperature",0.55,7.8,118.507928
+"1507",338,"Temperature",1.01,7.79,118.047928
+"1508",338,"Temperature",14.02,7.78,105.037928
