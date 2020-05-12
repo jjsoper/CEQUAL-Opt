@@ -1,4 +1,4 @@
-#Overview
+# Overview
 calib.py is a script that allows for the automatic calibration of the CE-QUAL-W2 Wachusett Reservoir water quality model. It utilizes the [jMetalpy](https://github.com/jMetal/jMetalPy) framework and is currently set up for calibration using multi-objective optimization using the NSGA-II genetic algorithm. In its current state, it has the capacity to calibrate water quality models for temperature and specific conductivity but may be extended for other water quality constituents and eventually, other CE-QUAL-W2 models, as necessary.
 ![Reservoir](Figures/CEQUAL_GRIDS.png)  
 
@@ -30,6 +30,7 @@ The current script is set to calibrate for temperature (T) and specific conducti
 $s.t.$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $x_{lower,i} \le x_i \le x_{upper,i} $ -->
 
 Table 1. Summary of model parameters used in calibration
+
 |Parameter Name  | Parameter Abbr. | Lower Bound | Upper Bound |
 |:-:|:-:|:-:|:-:|:-:|
 | Light extinction coefficient | EXH20 | 0.25 | 0.65 |
@@ -40,7 +41,7 @@ Table 1. Summary of model parameters used in calibration
 
 The algorithm will seek to find the optimal parameter set from Table 1. that forms the pareto front. The objective function is set to minimize RMSE for each objective
 
-#####Script Parameters
+##### Script Parameters
 
 
 ### Notes
