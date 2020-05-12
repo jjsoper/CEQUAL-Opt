@@ -32,7 +32,7 @@ $s.t.$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $x_{lower,i} \le x_i \le x_{upper,i} 
 Table 1. Summary of model parameters used in calibration
 
 |Parameter Name  | Parameter Abbr. | Lower Bound | Upper Bound |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | Light extinction coefficient | EXH20 | 0.25 | 0.65 |
 | CI withdrawal elevation | ESTR | 104.3 | 110.6 |
 | WSC Thomas | WSC | 0.5 | 1.0 |
