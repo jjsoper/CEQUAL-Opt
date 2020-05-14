@@ -5,9 +5,6 @@ calib.py is a script that allows for the automatic calibration of the CE-QUAL-W2
 ## Getting Started
 Download instructions
 1. Clone this repository:
-```
-git clone 'blah blah blah'
-```
 2. Download the jMetalPy using the pip command
 ```
 pip install jmetalpy

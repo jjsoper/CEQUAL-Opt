@@ -21,9 +21,9 @@ from jmetal.util.comparator import DominanceComparator
 """
 5 parameters
 EXH2O, CI ESTR, WSC THOMAS, WSC SOUTH, WSC NORTH
-3 objectives
-MIN RMSE @ Temperature at BN and CI, Conductivity at BN
-Ignore Conductivity at CI due to probe errors
+4 objectives
+Minimize Temp and SC RMSE at Basin North and Cosgrove Intake
+*Ignore Conductivity at CI due to probe errors for calibration prior to 2016
 """
 
 def os_sep():
@@ -38,7 +38,7 @@ os_fold = os_sep()
 
 # The bulk of the code is provided in the definition of the class 'cequal'
 class cequal(FloatProblem):
-    def __init__(self, number_of_variables: int = 5, number_of_objectives=3):
+    def __init__(self, number_of_variables: int = 5, number_of_objectives=4):
         """ param number_of_variables: number of decision variables of the problem.
         """
         super(cequal, self).__init__()
@@ -58,7 +58,7 @@ class cequal(FloatProblem):
             os_fold = "\\"
         return(os_fold)
 
-    # RUN CEQUAL
+    # Run cequal with windows (nt) or linux (posix)
     def run_cequal(self, model_folder, fail_time):
         global wd
         os_fold = self.os_sep()
@@ -69,7 +69,7 @@ class cequal(FloatProblem):
         else:
             print("unknown OS")
 
-    # WRITE/UPDATE PARAMETERS IN CONTROL FILE
+    # Write/update parameters to control/input files
     # searches for parameter name in control (text) file then rewrites corresponding
     # parameter value beneath parameter name
     # cannot handle numbers larger than 8 orders of magnitude
@@ -90,7 +90,7 @@ class cequal(FloatProblem):
         new_control.writelines(control_copy)
         new_control.close()
 
-    # UPDATE WSC FROM EXISTING TEMPLATE
+    # Update WSC from existing input files
     def write_wsc(self, wsc_vals, file_path, segs):
         os_fold = os_sep()
         wsc= pd.read_csv("{}{}".format(file_path, os_fold + "wsc.csv"), header=None)
@@ -102,7 +102,7 @@ class cequal(FloatProblem):
         wsc.loc[4] = [sim_days] + ['0.625']*branch[0] + [wsc_vals[index]]*branch[1] + [wsc_vals[index+1]]*branch[2] +[wsc_vals[index+2]]*branch[3]
         wsc.to_csv("{}{}".format(file_path, os_fold + "wsc.csv"), header=False, index=False)
 
-    # CONVERT RESERVOIR ELEVATIONS TO MODEL LAYER DEFINITONS
+    # Convert reservoir elevation to model layer
     def assign_layer(self, df):
         df['Layer'] = None
         df.loc[df['Elevation'] > 120.7, 'Layer']= 1
@@ -220,7 +220,7 @@ class cequal(FloatProblem):
 
         return(ErrorCI)
 
-    # Write all outputs to record outputs from Cosgrove conductivity
+    # Write all iterations to file
     def write_full_outputs(self, vars, all_objs, trial_name):
         wd = os.getcwd()
         os_fold = self.os_sep()
@@ -237,10 +237,10 @@ class cequal(FloatProblem):
         global wd
 
         ###
-        debug = 'off'
-        year = '2018'
-        trial_name = "2018_trial1"
-        fail_time = 400
+        debug = 'off' # see below for description
+        year = '2018' # model year
+        trial_name = "2018_trial1" #output file name ID
+        fail_time = 400 # maximum model run time (seconds)
         ###
 
         thread = multiprocessing.Process()
@@ -275,8 +275,8 @@ class cequal(FloatProblem):
             error_ci = self.Error_CI(model_folder, data_path, year)
             solution.objectives = ([error_bn['TempRMSE'],
                                     error_bn['CondRMSE'],
-                                    error_ci['TempRMSE']])
-                                    # error_ci['CondRMSE']])
+                                    error_ci['TempRMSE'],
+                                    error_ci['CondRMSE']])
             all_objs = ([error_bn['TempRMSE'],
                         error_bn['CondRMSE'],
                         error_ci['TempRMSE'],
@@ -351,7 +351,7 @@ if __name__ == '__main__':
     # run_optimization(max_eval = 6400, num_nodes = 32, pop_size = 32, offspring = 32, trial_name = trial_name)
 
 
-# debugging code:
+# helpful code for debugging purposes
     # year = '2018'
     # model_folder = wd + os_fold + year + os_fold + 'optimum'
     # data_path = wd + os_fold + "data" + os_fold + year

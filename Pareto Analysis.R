@@ -11,7 +11,7 @@ library(plotly)
 
 master.folder <- "C:/Users/Josh Soper/Documents/Master's Thesis/Modeling/Josh/JMET-TRIAL"
 setwd(master.folder)
-model <- "2018_trial1"
+model <- "2009-2018_5P_T2"
 model.folder <- file.path(master.folder, model, 'init')
 variables <- c("EXH2O", 'Intake_Elev', 'WSC_THOMAS', "WSC_SOUTH", "WSC_NORTH")
 objectives <- c('BN_TEMP', "BN_COND", "CI_TEMP", 'CI_Cond')
@@ -49,9 +49,13 @@ append.cosgrove.cond <- function(results, model, headers) {
   return(all.runs)
 }
 
-headers <- append(variables, append(objectives, "CI_COND"))
-results <- return.results(model, append(variables,objectives))
+headers <- append(variables, objectives[1:3])
+results <- return.results(model, headers)
 head(results)
+# results %>% plot_ly(x = BN_TEMP, y = ~BN_COND, z = ~CI_TEMP) %>% add_surface()
+fig <- plot_ly(x = results$BN_TEMP, y = results$BN_COND, z = results$CI_TEMP, type = 'mesh3d') %>% add_surface()
+fig
+stop()
 # results <- append.cosgrove.cond(results, model, headers)
 
 # PLOTS AND VISUALIZATION -------------------------------------------------
