@@ -89,7 +89,7 @@ Several output files will be generated following a successful calibration:
 
 1. Pareto front decision variables (CE-QUAL parameters) in order defined by script:
   ```
-    results/[year]/VAR_NSGAII_[trial_name].txt'
+    results/[year]/VAR_NSGAII_[trial_name].txt
   ```
 2. Pareto front objectives (RMSE values) in order defined by script:
   ```
