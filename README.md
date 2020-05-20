@@ -6,7 +6,7 @@ CEQUAL-Opt is a framework that allows for the automatic calibration of CE-QUAL-W
   <b> Plan View of Model Grid</b>
 </p>
 <p align="center">
-  <img src="figures/CEQUAL_GRIDS.png" width="400" height="400">
+  <img src="Figures/CEQUAL_GRIDS.png" width="400" height="400">
 </p>
 
 ## Getting Started
@@ -79,7 +79,7 @@ def evaluate(self, solution: FloatSolution) -> FloatSolution:
   <b> WSC Delineation </b>
 </p>
 <p align="center">
-  <img src="figures/WSC_example.png" width="300" height="300">
+  <img src="Figures/WSC_example.png" width="300" height="300">
 </p>
 
 ##### Other
