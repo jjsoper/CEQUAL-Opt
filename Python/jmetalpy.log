@@ -1,0 +1,24 @@
+2020-05-19 08:57:25,431 [MainThread  ] [INFO ]  Evaluations: 2 
+ Best fitness: [1.8891804910223835, 9.676767234949148, 0.9636704174626904, 7.688261799254518] 
+ Computing time: 134.21545147895813
+2020-05-19 08:59:39,290 [MainThread  ] [INFO ]  Evaluations: 4 
+ Best fitness: [1.8891804910223835, 9.676767234949148, 0.9636704174626904, 7.688261799254518] 
+ Computing time: 268.0737724304199
+2020-05-19 08:59:39,301 [MainThread  ] [INFO ]  Output file (function values): results\OBJ_NSGAII_2018_debug.txt
+2020-05-19 08:59:39,308 [MainThread  ] [INFO ]  Output file (variables): results\VAR_NSGAII_2018_debug.txt
+2020-05-20 11:15:48,886 [MainThread  ] [INFO ]  Evaluations: 4 
+ Best fitness: [1.5722866570428224, 8.877456326249547, 1.3020735896141051, 6.915588428379886] 
+ Computing time: 182.4068841934204
+2020-05-20 11:18:58,361 [MainThread  ] [INFO ]  Evaluations: 8 
+ Best fitness: [1.5722866570428224, 8.877456326249547, 1.3020735896141051, 6.915588428379886] 
+ Computing time: 371.8823914527893
+2020-05-20 11:18:58,365 [MainThread  ] [INFO ]  Output file (function values): results\2018\OBJ_NSGAII_2018_debug.txt
+2020-05-20 11:18:58,366 [MainThread  ] [INFO ]  Output file (variables): results\2018\VAR_NSGAII_2018_debug.txt
+2020-05-20 11:23:16,066 [MainThread  ] [INFO ]  Evaluations: 4 
+ Best fitness: [1.3108684291192378, 8.198899000713583, 1.937454554185039, 4.928247531521631] 
+ Computing time: 191.12335538864136
+2020-05-20 11:26:31,209 [MainThread  ] [INFO ]  Evaluations: 8 
+ Best fitness: [1.3108684291192378, 8.198899000713583, 1.937454554185039, 4.928247531521631] 
+ Computing time: 386.2661736011505
+2020-05-20 11:26:31,213 [MainThread  ] [INFO ]  Output file (function values): results\2017\OBJ_NSGAII_2017_debug.txt
+2020-05-20 11:26:31,214 [MainThread  ] [INFO ]  Output file (variables): results\2017\VAR_NSGAII_2017_debug.txt
